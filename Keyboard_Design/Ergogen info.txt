@@ -1,0 +1,184 @@
+units:
+  # Proxy Spacing Variables
+  kx: cx
+  ky: cy
+  # Padding Variables
+  px: kx + 2
+  py: ky + 2
+points:
+  zones:
+    # The primary 6x4 key matrix, plus 3 modifiers.
+    matrix:
+      anchor:
+        shift: [100,-100]
+      # Choc spacing
+      key:
+        padding: 1ky
+        spread: 1kx
+      columns:
+        # Hide the first two mods and the last mod.
+        # Provide a Sofle-like column stagger.
+        outer:
+          rows.mod.skip: true
+          #key.column_net: P19
+        pinky:
+          rows.mod.skip: true
+          #key.column_net: P18
+        ring:
+          key.stagger: 5
+          #key.column_net: P15
+        middle:
+          key.stagger: 2.5
+          #key.column_net: P7
+        index:
+          key.stagger: -2.5
+          #key.column_net: P8
+        inner:
+          rows.mod.skip: true
+          key.stagger: -2.5
+          #key.column_net: P9
+      rows:
+        # Four main rows, one partial row.
+        mod:
+          #row_net: P6
+        bottom:
+          #row_net: P5
+        home:
+          #row_net: P4
+        top:
+          #row_net: P3
+        num:
+          #Row_net: P2
+    # Thumb cluster for Layer and Space keys.
+    thumbs:
+      # Choc spacing
+      key:
+        tags: Alpha
+        padding: 1ky
+        spread: 1.125kx
+        height: 1kx
+      anchor:
+        ref: matrix_inner_mod
+        shift: [15, -15]
+      columns:
+        layer:
+          key.splay: -20
+          key.column_net: P10
+        space:
+          key:
+            tags: Alpha
+            height: 1kx
+            #splay: -0
+            column_net: P16
+        arrow:
+          key:
+            tage: arrow
+            height: 1kx
+            #splay: -15
+
+      rows:
+        # Thumbs only have one row.
+        cluster:
+          #row_net: P5
+
+        
+         
+
+  
+outlines:
+  raw:
+  - what: rectangle
+    where: true
+    bound: true
+    size: [px,py]
+  keys: 
+    - what: rectangle
+      where: -Alpha
+      bound: false
+      size: [kx-.5, ky-0.5]
+    - what: rectangle
+      where: Alpha
+      bound: false
+      size: [1kx , 2ky]
+      
+  board:
+  - what: polygon
+  
+    operation: stack
+    points:
+      - ref: matrix_outer_num
+        shift: [-1px,1py]
+      - ref: matrix_ring_num
+        shift: [-1px,1py]
+      - ref: matrix_middle_num
+        shift: [-1px,1py]
+      - ref: matrix_middle_num
+        shift: [1px,1py]
+      - ref: matrix_inner_num
+        shift: [1px,1py]
+      - ref: thumbs_space_cluster
+        shift: [.75px,5py]
+      - ref: thumbs_layer_cluster
+        shift: [3.75px,-1.25py]
+      - ref: matrix_outer_bottom
+        shift: [-1px,-1py]
+    fillet: 5
+      
+  combo:
+  - name: board
+  - operation: subtract
+    name: keys
+
+pcbs:
+  mainBoard:
+    outlines:
+      main:
+        outline: board      
+    footprints:
+      mainKeys:
+        what: choc
+        where: true
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode:
+        what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -5]
+      promicro:
+        what: promicro
+        params:
+          orientation: "up"
+        where:
+          ref.aggregate.parts: [thumbs_layer_cluster, matrix_inner_num]
+          shift: [12,40]
+          rotate: -102   
+      reset:
+        what: button
+        params:
+          from: GND
+          to: RST
+        where:
+          ref.aggregate.parts: [thumbs_layer_cluster, matrix_inner_num]
+          shift: [30, 50]
+          rotate: -90  
+
+      headPhoneJack:
+        what: trrs
+        params:
+          reverse: true
+          A: GND
+          B: GND
+          C: P21
+          D: VCC
+        where:
+          ref.aggregate.parts: [thumbs_layer_cluster, matrix_inner_num]
+          shift: [65,40]
+          rotate: -80
