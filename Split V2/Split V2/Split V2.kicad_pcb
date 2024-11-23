@@ -80,6 +80,96 @@
 		)
 	)
 	(net 0 "")
+	(net 1 "Net-(DX0,Y0-A)")
+	(net 2 "unconnected-(DX0,Y0-K-Pad1)")
+	(net 3 "Net-(DX0,Y1-A)")
+	(net 4 "unconnected-(DX0,Y1-K-Pad1)")
+	(net 5 "Net-(DX0,Y2-A)")
+	(net 6 "unconnected-(DX0,Y2-K-Pad1)")
+	(net 7 "unconnected-(DX0,Y3-K-Pad1)")
+	(net 8 "Net-(DX0,Y3-A)")
+	(net 9 "Net-(DX0,Y4-A)")
+	(net 10 "unconnected-(DX0,Y4-K-Pad1)")
+	(net 11 "unconnected-(DX0,Y5-K-Pad1)")
+	(net 12 "Net-(DX0,Y5-A)")
+	(net 13 "Net-(DX1,Y0-A)")
+	(net 14 "unconnected-(DX1,Y0-K-Pad1)")
+	(net 15 "unconnected-(DX1,Y1-K-Pad1)")
+	(net 16 "Net-(DX1,Y1-A)")
+	(net 17 "unconnected-(DX1,Y2-K-Pad1)")
+	(net 18 "Net-(DX1,Y2-A)")
+	(net 19 "unconnected-(DX1,Y3-K-Pad1)")
+	(net 20 "Net-(DX1,Y3-A)")
+	(net 21 "Net-(DX1,Y4-A)")
+	(net 22 "unconnected-(DX1,Y4-K-Pad1)")
+	(net 23 "Net-(DX1,Y5-A)")
+	(net 24 "unconnected-(DX1,Y5-K-Pad1)")
+	(net 25 "unconnected-(DX2,Y0-K-Pad1)")
+	(net 26 "Net-(DX2,Y0-A)")
+	(net 27 "unconnected-(DX2,Y1-K-Pad1)")
+	(net 28 "Net-(DX2,Y1-A)")
+	(net 29 "unconnected-(DX2,Y2-K-Pad1)")
+	(net 30 "Net-(DX2,Y2-A)")
+	(net 31 "Net-(DX2,Y3-A)")
+	(net 32 "unconnected-(DX2,Y3-K-Pad1)")
+	(net 33 "unconnected-(DX2,Y4-K-Pad1)")
+	(net 34 "Net-(DX2,Y4-A)")
+	(net 35 "Net-(DX2,Y5-A)")
+	(net 36 "unconnected-(DX2,Y5-K-Pad1)")
+	(net 37 "unconnected-(DX3,Y0-K-Pad1)")
+	(net 38 "Net-(DX3,Y0-A)")
+	(net 39 "unconnected-(DX3,Y1-K-Pad1)")
+	(net 40 "Net-(DX3,Y1-A)")
+	(net 41 "unconnected-(DX3,Y2-K-Pad1)")
+	(net 42 "Net-(DX3,Y2-A)")
+	(net 43 "unconnected-(DX3,Y3-K-Pad1)")
+	(net 44 "Net-(DX3,Y3-A)")
+	(net 45 "unconnected-(DX3,Y4-K-Pad1)")
+	(net 46 "Net-(DX3,Y4-A)")
+	(net 47 "unconnected-(DX3,Y5-K-Pad1)")
+	(net 48 "Net-(DX3,Y5-A)")
+	(net 49 "unconnected-(DX4,Y0-K-Pad1)")
+	(net 50 "Net-(DX4,Y0-A)")
+	(net 51 "unconnected-(DX4,Y1-K-Pad1)")
+	(net 52 "Net-(DX4,Y1-A)")
+	(net 53 "Net-(DX4,Y2-A)")
+	(net 54 "unconnected-(DX4,Y2-K-Pad1)")
+	(net 55 "unconnected-(DX4,Y3-K-Pad1)")
+	(net 56 "Net-(DX4,Y3-A)")
+	(net 57 "unconnected-(DX4,Y4-K-Pad1)")
+	(net 58 "Net-(DX4,Y4-A)")
+	(net 59 "unconnected-(DX4,Y5-K-Pad1)")
+	(net 60 "Net-(DX4,Y5-A)")
+	(net 61 "unconnected-(SWX0,Y0-Pad1)")
+	(net 62 "unconnected-(SWX0,Y1-Pad1)")
+	(net 63 "unconnected-(SWX0,Y2-Pad1)")
+	(net 64 "unconnected-(SWX0,Y3-Pad1)")
+	(net 65 "unconnected-(SWX0,Y4-Pad1)")
+	(net 66 "unconnected-(SWX0,Y5-Pad1)")
+	(net 67 "unconnected-(SWX1,Y0-Pad1)")
+	(net 68 "unconnected-(SWX1,Y1-Pad1)")
+	(net 69 "unconnected-(SWX1,Y2-Pad1)")
+	(net 70 "unconnected-(SWX1,Y3-Pad1)")
+	(net 71 "unconnected-(SWX1,Y4-Pad1)")
+	(net 72 "unconnected-(SWX1,Y5-Pad1)")
+	(net 73 "unconnected-(SWX2,Y0-Pad1)")
+	(net 74 "unconnected-(SWX2,Y1-Pad1)")
+	(net 75 "unconnected-(SWX2,Y2-Pad1)")
+	(net 76 "unconnected-(SWX2,Y3-Pad1)")
+	(net 77 "unconnected-(SWX2,Y4-Pad1)")
+	(net 78 "unconnected-(SWX2,Y5-Pad1)")
+	(net 79 "unconnected-(SWX3,Y0-Pad1)")
+	(net 80 "unconnected-(SWX3,Y1-Pad1)")
+	(net 81 "unconnected-(SWX3,Y2-Pad1)")
+	(net 82 "unconnected-(SWX3,Y3-Pad1)")
+	(net 83 "unconnected-(SWX3,Y4-Pad1)")
+	(net 84 "unconnected-(SWX3,Y5-Pad1)")
+	(net 85 "unconnected-(SWX4,Y0-Pad1)")
+	(net 86 "unconnected-(SWX4,Y1-Pad1)")
+	(net 87 "unconnected-(SWX4,Y2-Pad1)")
+	(net 88 "unconnected-(SWX4,Y3-Pad1)")
+	(net 89 "unconnected-(SWX4,Y4-Pad1)")
+	(net 90 "unconnected-(SWX4,Y5-Pad1)")
 	(footprint "Custom:D_SOD-123_bothside"
 		(layer "F.Cu")
 		(uuid "00580272-5568-468b-bbd0-32d52ddb06e2")
@@ -97,7 +187,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "2689d7e9-df08-481c-9903-e887e170c1ea")
@@ -147,6 +237,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf1d7a4f-c693-49c6-a172-c641ec265f9c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/7baa4d3a-1b6a-44aa-aadc-8b5f5b519a80")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -344,6 +451,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 41 "unconnected-(DX3,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "67d5bf91-a2a7-4112-8a01-02c9fb2c8dad")
 		)
 		(pad "1" smd roundrect
@@ -351,6 +461,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 41 "unconnected-(DX3,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "c18c77c8-84a6-4849-89a4-c2b8af09001c")
 		)
 		(pad "2" smd roundrect
@@ -358,6 +471,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 42 "Net-(DX3,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "87a38150-5001-498f-8ac6-70fea1f54118")
 		)
 		(pad "2" smd roundrect
@@ -365,6 +481,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 42 "Net-(DX3,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "c3bac7d4-7d31-4466-9571-111d8511b8f8")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -385,7 +504,7 @@
 		(at 189.23 134.62)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D24"
+		(property "Reference" "DX1,Y5"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "c58d7ccb-b9c1-4799-86ee-9a014a5bb1c7")
@@ -396,7 +515,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "4b6fdf11-fdaa-4292-9288-5b35ee6ca63c")
@@ -446,6 +565,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4251a72-1d69-4b8c-99b9-7fd2e5cf3ff9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/db1c8048-7152-412b-8b77-df332845e214")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -643,6 +779,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 24 "unconnected-(DX1,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "a9a4c545-f59e-43c8-97a4-11e9ceae4c7e")
 		)
 		(pad "1" smd roundrect
@@ -650,6 +789,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 24 "unconnected-(DX1,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "9e8b39be-4362-40c4-bed9-babeae42e288")
 		)
 		(pad "2" smd roundrect
@@ -657,6 +799,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 23 "Net-(DX1,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "303e70c8-1703-4418-980a-aed861d2a90c")
 		)
 		(pad "2" smd roundrect
@@ -664,6 +809,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 23 "Net-(DX1,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "91f3a470-a8cf-47f8-829d-29e0583296b4")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -685,7 +833,7 @@
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
 		(tags "kailh,choc")
 		(property "Reference" "SWX1,Y0"
-			(at 4.91 -7.66 -0)
+			(at 4.91 -7.66 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "0ec828ac-c970-454c-9047-925f3d122739")
@@ -697,7 +845,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "f6cb4404-83b4-4f9b-a15b-aa6d064d35d8")
@@ -744,6 +892,9 @@
 				)
 			)
 		)
+		(path "/fd2b9031-bff4-4b24-a3c8-219cf988c5a9")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -1714,7 +1865,7 @@
 			(uuid "594ebd1e-7c92-4d81-b068-dd46ae26a16e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "d3f9e3ef-2b3d-4e3d-ae74-4744a043f10d")
 			(effects
@@ -1805,24 +1956,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 67 "unconnected-(SWX1,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "3b698b4b-5c9a-46ce-9893-6eadc4459c89")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 67 "unconnected-(SWX1,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "f1e70068-02a2-44f0-8497-10c7e0fbd2dd")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 13 "Net-(DX1,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "ad98ab7f-73b9-4f77-888d-5f56574c9064")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 13 "Net-(DX1,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "3b57c520-5117-4420-a76a-8c600e5a20a8")
 		)
 	)
@@ -1843,7 +2006,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "5aca2cc1-c2e1-4702-adbe-7586ff6f55e5")
@@ -1893,6 +2056,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9998ada3-5ee4-4f55-8bf5-8fb72ba99beb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/51ceb571-7b4d-4e9d-beab-0ce6d6097b31")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -2090,6 +2270,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 43 "unconnected-(DX3,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "046e7a41-b1d0-46dd-a2ed-016e2063e7aa")
 		)
 		(pad "1" smd roundrect
@@ -2097,6 +2280,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 43 "unconnected-(DX3,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "7904ff31-e45a-400c-96d5-934673aebd68")
 		)
 		(pad "2" smd roundrect
@@ -2104,6 +2290,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 44 "Net-(DX3,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "3b0ae0c0-f857-44d5-b39c-a7b985d457e6")
 		)
 		(pad "2" smd roundrect
@@ -2111,6 +2300,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 44 "Net-(DX3,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "4e2801e9-1e3b-48ca-a93c-756e9edcf97a")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -2142,7 +2334,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "e64cb85c-0ba4-4a35-aea2-61e304ef0f76")
@@ -2189,6 +2381,9 @@
 				)
 			)
 		)
+		(path "/094591ee-f748-430d-932a-221567b4312d")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -3159,7 +3354,7 @@
 			(uuid "0aa167d9-a916-4454-b981-830969b20943")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "9bf3e554-d4d2-4b91-8202-b9610d74795c")
 			(effects
@@ -3250,24 +3445,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 85 "unconnected-(SWX4,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "81c77879-3640-4212-8f98-9c7bea5ec968")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 85 "unconnected-(SWX4,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "6a23430c-81ba-4540-a9d8-7fa93f921efd")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 50 "Net-(DX4,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "6138c178-e46e-44e5-9429-0cb4134bb312")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 50 "Net-(DX4,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "b87d2253-3915-447a-bb84-f204a80d7b6a")
 		)
 	)
@@ -3277,7 +3484,7 @@
 		(at 189.23 129.62)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
 		(tags "kailh,choc")
-		(property "Reference" "SWX1,Y4"
+		(property "Reference" "SWX1,Y5"
 			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "34f349c6-6cf2-44e5-a350-a83a29dafa85")
@@ -3288,7 +3495,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "eb4d3a7f-d6bd-493b-9b4f-2807feefa8e5")
@@ -3335,6 +3542,9 @@
 				)
 			)
 		)
+		(path "/a014d5c6-fe03-465e-b9cd-a5fba9bae095")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -4305,7 +4515,7 @@
 			(uuid "ab51fc23-c2ac-448e-a206-cb1f0b2d73d5")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "09552481-ddce-4362-bbfd-927abea3a1ec")
 			(effects
@@ -4396,24 +4606,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 72 "unconnected-(SWX1,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "477a64d6-a8ab-4ee0-8f7f-1555b407c18d")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 72 "unconnected-(SWX1,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "97b86a63-a3c8-4b21-bd8c-56606a9076bc")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 23 "Net-(DX1,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "01148f3b-53d2-400b-81ee-498a550a800c")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 23 "Net-(DX1,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "51b6c6d0-4846-40c1-95c9-e5c6ff3dad6a")
 		)
 	)
@@ -4423,7 +4645,7 @@
 		(at 171.23 127.12)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
 		(tags "kailh,choc")
-		(property "Reference" "SWX1,Y3"
+		(property "Reference" "SWX1,Y4"
 			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "7de10895-2a50-45b9-ae0f-53032f6d5a7c")
@@ -4434,7 +4656,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "9974862f-832b-421d-9634-68946a387748")
@@ -4481,6 +4703,9 @@
 				)
 			)
 		)
+		(path "/a07bfd04-ab1a-4302-87b6-aac79fbcf26e")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -5451,7 +5676,7 @@
 			(uuid "636000d9-4fc7-40af-b832-23764e27c846")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "4f5e86c9-7e5c-4e9c-802d-afe555f02186")
 			(effects
@@ -5542,24 +5767,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 71 "unconnected-(SWX1,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "c7ec7138-f60a-4ecd-8597-576fc6edca3f")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 71 "unconnected-(SWX1,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "7c86c9e5-0a14-46ff-9bdf-78e46ba49d40")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 21 "Net-(DX1,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "1dcb96c7-8989-4083-8d49-a6e936a44a5b")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 21 "Net-(DX1,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "694fedcb-76e8-4102-bfed-7128f6cc8d56")
 		)
 	)
@@ -5569,7 +5806,7 @@
 		(at 135.23 115.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D11"
+		(property "Reference" "DX2,Y2"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "878e446f-3d12-4f52-add7-852f89a49e6e")
@@ -5580,7 +5817,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "40305a45-7559-4373-95bc-c8ec8ddf6036")
@@ -5630,6 +5867,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "038f54b7-3d36-498c-bdc3-9dddff4474ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/7a9fc415-8f96-4278-af2a-e047a9b4424a")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -5827,6 +6081,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 29 "unconnected-(DX2,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "dfc74a4f-ee76-4dc4-928e-058f10eb4347")
 		)
 		(pad "1" smd roundrect
@@ -5834,6 +6091,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 29 "unconnected-(DX2,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "77302815-1ee9-4a80-b795-e75a2ecb5611")
 		)
 		(pad "2" smd roundrect
@@ -5841,6 +6101,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 30 "Net-(DX2,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "f225f1b2-ebcc-44bf-9371-ef3d5bdb36fd")
 		)
 		(pad "2" smd roundrect
@@ -5848,6 +6111,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 30 "Net-(DX2,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "7fd8c734-bfd8-48d3-a1a4-9ab79c2b12d3")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -5869,7 +6135,7 @@
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
 		(tags "kailh,choc")
 		(property "Reference" "SWX0,Y3"
-			(at 0 -8.89 340)
+			(at 0 -8.89 -20)
 			(layer "F.SilkS")
 			(uuid "a0561053-a1a3-49e5-b03e-e348de84d0a0")
 			(effects
@@ -5879,7 +6145,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 -20)
 			(layer "F.Fab")
 			(uuid "d4eafce4-1b23-4029-bb27-fa9fc51e8ab1")
@@ -5926,6 +6192,9 @@
 				)
 			)
 		)
+		(path "/2674c728-0ec2-4093-bc3f-fe58b5fb0a21")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 7)
@@ -6331,7 +6600,7 @@
 		)
 		(fp_arc
 			(start -2.5 -2.2)
-			(mid -2.060659 -3.26066)
+			(mid -2.060659 -3.260659)
 			(end -1 -3.7)
 			(stroke
 				(width 0.15)
@@ -6342,7 +6611,7 @@
 		)
 		(fp_arc
 			(start -2 -6.7)
-			(mid -2.146447 -6.346446)
+			(mid -2.146446 -6.346447)
 			(end -2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -6875,7 +7144,7 @@
 		)
 		(fp_arc
 			(start -2.5 -2.2)
-			(mid -2.060659 -3.26066)
+			(mid -2.060659 -3.260659)
 			(end -1 -3.7)
 			(stroke
 				(width 0.15)
@@ -6886,7 +7155,7 @@
 		)
 		(fp_arc
 			(start -2 -6.7)
-			(mid -2.146447 -6.346446)
+			(mid -2.146446 -6.346447)
 			(end -2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -6987,24 +7256,36 @@
 			(at -3.275 -5.95 340)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 64 "unconnected-(SWX0,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "835a03bd-b350-4712-a4ff-67cbc772dccd")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95 340)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 64 "unconnected-(SWX0,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "5f574522-af6a-43e2-bb3d-4bbfcc53df53")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75 340)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 8 "Net-(DX0,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "101d5351-b3b0-43e5-ba45-01218c26d018")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75 340)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 8 "Net-(DX0,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "58b9e809-682b-4f03-bb93-17560b448d14")
 		)
 	)
@@ -7014,7 +7295,7 @@
 		(at 99.23 137.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D1"
+		(property "Reference" "DX1,Y0"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "a30772d5-2934-44ce-a5fa-b88de7230717")
@@ -7025,7 +7306,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "f2793dc8-f354-4373-9b2f-04392317d946")
@@ -7075,6 +7356,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2636f048-1672-4717-8cad-047d1224cebe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/edac8407-c311-43d5-a10c-55b7dba58a82")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -7272,6 +7570,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 14 "unconnected-(DX1,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "e49b9b96-9fdc-41b9-93fb-57f6711bae8e")
 		)
 		(pad "1" smd roundrect
@@ -7279,6 +7580,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 14 "unconnected-(DX1,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "b54f49ce-f8e3-4116-a8e5-9d9aa295cbc8")
 		)
 		(pad "2" smd roundrect
@@ -7286,6 +7590,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 13 "Net-(DX1,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "c4ddf282-32a0-4f90-ad56-4c859e858bf7")
 		)
 		(pad "2" smd roundrect
@@ -7293,6 +7600,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 13 "Net-(DX1,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "0c3dc41d-6f98-4f7f-aae5-960ca2f37aad")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -7324,7 +7634,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "ec3e756f-f4d7-424f-b81b-d18eea5948c3")
@@ -7371,6 +7681,9 @@
 				)
 			)
 		)
+		(path "/b2e0d57f-edb2-4491-b7b1-b4135306c8b5")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -8341,7 +8654,7 @@
 			(uuid "fa61b838-68f9-445c-91b8-4bd867acfb94")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "bf0a04bf-22d0-4ed0-a7f6-8e089231d905")
 			(effects
@@ -8432,24 +8745,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 80 "unconnected-(SWX3,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "e0190b14-461b-407c-9dca-aa77119ed54c")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 80 "unconnected-(SWX3,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "8920adc1-9d35-4e7e-895a-32e0dab7b242")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 40 "Net-(DX3,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "404bb572-7c96-41ca-a750-0760136d2c08")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 40 "Net-(DX3,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "98eb50cd-1fc2-4d19-934e-c1591ca531e3")
 		)
 	)
@@ -8470,7 +8795,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "3071a75e-3959-4e9d-88b5-1954d8376e29")
@@ -8520,6 +8845,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da8735ec-3414-4580-9c19-d1e7251a2a40")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/22973fdd-7643-4173-8723-f94267393113")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -8717,6 +9059,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 54 "unconnected-(DX4,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "ca8edab3-9789-4b7a-ae80-8df372acf811")
 		)
 		(pad "1" smd roundrect
@@ -8724,6 +9069,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 54 "unconnected-(DX4,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "d5700f8b-ff24-4782-b9b3-c82f95a9978a")
 		)
 		(pad "2" smd roundrect
@@ -8731,6 +9079,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 53 "Net-(DX4,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "b7818322-ef39-4aed-bf0e-d07ece0787c9")
 		)
 		(pad "2" smd roundrect
@@ -8738,6 +9089,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 53 "Net-(DX4,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "5e0cc1d2-d179-4144-b4f8-8cc4ae5e1501")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -8769,7 +9123,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "5c5692d9-36ad-44ad-aa41-11d5c36867b8")
@@ -8819,6 +9173,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24a5ef2b-3d70-4aee-be1a-ca23457f62ca")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/4fe3f1a0-4a16-4956-9e1b-f15365d492d0")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -9016,6 +9387,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 55 "unconnected-(DX4,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "09ea9d0c-da30-4569-84f3-28efbe890197")
 		)
 		(pad "1" smd roundrect
@@ -9023,6 +9397,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 55 "unconnected-(DX4,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "cc72a1f2-a6d3-4bb5-a6dd-b37a28f6af1b")
 		)
 		(pad "2" smd roundrect
@@ -9030,6 +9407,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 56 "Net-(DX4,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "5e5be68a-3cc6-45b9-b498-d294d090c671")
 		)
 		(pad "2" smd roundrect
@@ -9037,6 +9417,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 56 "Net-(DX4,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "fc0c9f74-50f5-479a-aa75-137b8f197257")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -9068,7 +9451,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "d38e4ad4-5cdd-4960-b7e6-7f0a974453ec")
@@ -9118,6 +9501,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf59c6df-8e28-4e2e-867a-8baeaa6b7c51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/a8d37884-1f56-41ae-b81f-12047aac8bb4")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -9315,6 +9715,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 45 "unconnected-(DX3,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "af41d432-ea71-4337-9954-c36c409f8ed2")
 		)
 		(pad "1" smd roundrect
@@ -9322,6 +9725,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 45 "unconnected-(DX3,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "0368ba22-b455-4578-9180-44c5be74b35d")
 		)
 		(pad "2" smd roundrect
@@ -9329,6 +9735,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 46 "Net-(DX3,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ed15d633-7557-4d11-a29c-65a0377218c4")
 		)
 		(pad "2" smd roundrect
@@ -9336,6 +9745,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 46 "Net-(DX3,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ca873692-f0af-4263-8174-4ae7e73480b0")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -9356,8 +9768,8 @@
 		(at 237.049899 169.798463 -20)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D30"
-			(at 0 -2 -20)
+		(property "Reference" "DX0,Y5"
+			(at 0 -2 160)
 			(layer "F.SilkS")
 			(uuid "33d92389-052b-4a10-b604-11b27b2e355d")
 			(effects
@@ -9367,8 +9779,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 2.1 -20)
+		(property "Value" "~"
+			(at 0 2.1 160)
 			(layer "F.Fab")
 			(uuid "c226b7c1-c1c6-42c3-994e-3202855a4be7")
 			(effects
@@ -9417,6 +9829,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 -20)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0b74590-0e7a-42b8-acaf-22d5e01ef6d2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/3ae3213d-2e3f-464d-9bfa-4098a61c62b3")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 1)
@@ -9599,7 +10028,7 @@
 			(uuid "c0c19db2-ba2a-406d-9533-4af379fca915")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2 -20)
+			(at 0 -2 160)
 			(layer "F.Fab")
 			(uuid "a4c08626-62a5-4f83-ad1f-66d5d184b170")
 			(effects
@@ -9614,6 +10043,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 11 "unconnected-(DX0,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "8401979a-9860-4f38-bffa-9b5b09104f6a")
 		)
 		(pad "1" smd roundrect
@@ -9621,6 +10053,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 11 "unconnected-(DX0,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "23e5ea7d-63df-4693-937f-f93416af629b")
 		)
 		(pad "2" smd roundrect
@@ -9628,6 +10063,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 12 "Net-(DX0,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "2fb2571a-2986-44f0-941b-568b55fda0ee")
 		)
 		(pad "2" smd roundrect
@@ -9635,6 +10073,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 12 "Net-(DX0,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "8e4ec932-e542-4f91-b802-e709aad401aa")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -9655,7 +10096,7 @@
 		(at 117.23 137.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D5"
+		(property "Reference" "DX1,Y1"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "845c64ae-ee0b-436b-9854-262eb17436b4")
@@ -9666,7 +10107,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "dd3b1035-46ab-46b2-96ae-49c5cd055558")
@@ -9716,6 +10157,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e565e576-b9cd-4f8f-9cb6-5638d9f3c3b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/8f9cde94-385d-4ab2-b300-b8d01f959dd6")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -9913,6 +10371,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 15 "unconnected-(DX1,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "d11984d7-1fe8-4a37-8c42-595f24a3e5c5")
 		)
 		(pad "1" smd roundrect
@@ -9920,6 +10381,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 15 "unconnected-(DX1,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "a1104bac-d536-483a-8a48-7a67067af730")
 		)
 		(pad "2" smd roundrect
@@ -9927,6 +10391,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 16 "Net-(DX1,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "eed16b5f-85b0-457e-a861-a42d30ffc281")
 		)
 		(pad "2" smd roundrect
@@ -9934,6 +10401,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 16 "Net-(DX1,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "c6fba5b6-10f5-4874-accb-0bbbe841114e")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -9954,8 +10424,8 @@
 		(at 218.021124 162.872555 -20)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D29"
-			(at 0 -2 -20)
+		(property "Reference" "DX0,Y4"
+			(at 0 -2 160)
 			(layer "F.SilkS")
 			(uuid "ae49c032-eb29-4462-adba-f4c2698b754b")
 			(effects
@@ -9965,8 +10435,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 2.1 -20)
+		(property "Value" "~"
+			(at 0 2.1 160)
 			(layer "F.Fab")
 			(uuid "b2284b93-d24f-4e60-b496-2941bea8d167")
 			(effects
@@ -10015,6 +10485,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 -20)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ec2224b-ea19-46bc-b166-43ec904b3d33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/e3361337-fa55-4946-8d55-875a6ed173a8")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 1)
@@ -10197,7 +10684,7 @@
 			(uuid "d19f4ad3-b815-465a-a1e0-0c70433baaac")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2 -20)
+			(at 0 -2 160)
 			(layer "F.Fab")
 			(uuid "dd87f1d7-21ce-40e2-9bdf-4f7bf3a4562d")
 			(effects
@@ -10212,6 +10699,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 10 "unconnected-(DX0,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "6d7af172-2b6b-4054-bc9f-546464618bb9")
 		)
 		(pad "1" smd roundrect
@@ -10219,6 +10709,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 10 "unconnected-(DX0,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "7229585e-45a7-439d-aae6-b299833ee033")
 		)
 		(pad "2" smd roundrect
@@ -10226,6 +10719,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 9 "Net-(DX0,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "503db1a3-d83c-487c-b47b-50593b6de6c5")
 		)
 		(pad "2" smd roundrect
@@ -10233,6 +10729,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 9 "Net-(DX0,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "76fee709-baf2-457e-8291-4e99b11fe716")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -10253,7 +10752,7 @@
 		(at 153.23 129.62)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D15"
+		(property "Reference" "DX1,Y3"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "db7201b4-d19e-4758-ae68-7fa2db7ea3cf")
@@ -10264,7 +10763,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "a14ee069-b7d9-42ce-9ffc-e83adc8b2a0d")
@@ -10314,6 +10813,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1a3de6a-ca50-48d4-854b-05bd2bab6ac3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/7a5dbc50-fcb6-4fd4-98a0-8a198c4f10a0")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -10511,6 +11027,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 19 "unconnected-(DX1,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "03a18ca0-4c31-40d7-9989-c493e4294181")
 		)
 		(pad "1" smd roundrect
@@ -10518,6 +11037,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 19 "unconnected-(DX1,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "6540ce3c-c172-4126-b4e9-e00cf0d0ffaa")
 		)
 		(pad "2" smd roundrect
@@ -10525,6 +11047,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 20 "Net-(DX1,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "5977feb5-b6d0-4954-9fbb-9cc84dcfcc67")
 		)
 		(pad "2" smd roundrect
@@ -10532,6 +11057,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 20 "Net-(DX1,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "f422e043-35c9-41e4-9ba2-860b95924e7b")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -10563,7 +11091,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "318070aa-527b-4336-a8f3-7eb37dc60553")
@@ -10613,6 +11141,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddd2df46-05d8-4283-a5bd-416d51fba662")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/6e74f2e3-bb62-4da4-96a7-57493cdfd47c")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -10810,6 +11355,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 51 "unconnected-(DX4,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "21024e1a-c279-4a69-95d1-fdb89f5f936b")
 		)
 		(pad "1" smd roundrect
@@ -10817,6 +11365,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 51 "unconnected-(DX4,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "95b4e3c4-5464-4bd4-a729-69e2234ce90c")
 		)
 		(pad "2" smd roundrect
@@ -10824,6 +11375,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 52 "Net-(DX4,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "8cbce7e9-6604-45da-86c1-9992c7fe7e36")
 		)
 		(pad "2" smd roundrect
@@ -10831,6 +11385,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 52 "Net-(DX4,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ef148474-2574-43bc-96b7-3819fab291e0")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -10862,7 +11419,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "d7f06700-467c-4a14-8fc0-77c684bb6d8b")
@@ -10909,6 +11466,9 @@
 				)
 			)
 		)
+		(path "/47e92da4-4c18-44cd-b4c1-db997881310e")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -11879,7 +12439,7 @@
 			(uuid "699c1f90-168e-4cf9-8918-6513bd883779")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "1e91afc6-598d-4821-82c4-1f99803aa779")
 			(effects
@@ -11970,24 +12530,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 81 "unconnected-(SWX3,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "c0d25480-401c-4de1-b200-bacdab82d56f")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 81 "unconnected-(SWX3,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "b49c789c-b918-496c-8cb1-9719934790fe")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 42 "Net-(DX3,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "07a3dde0-e822-400b-b4cb-99b3e12baad5")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 42 "Net-(DX3,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "aa2c788c-3d74-4362-abef-6adadcbda54c")
 		)
 	)
@@ -12008,7 +12580,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "12521e36-43e2-4b21-aca9-bb56b5cd9af2")
@@ -12055,6 +12627,9 @@
 				)
 			)
 		)
+		(path "/2984aa50-f8e9-42dd-b151-0389783f6d0d")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -13025,7 +13600,7 @@
 			(uuid "a7369b46-c6aa-4fee-bd81-2cfc818bd264")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "acb13eb5-c7a9-4466-b9f0-fd2358738530")
 			(effects
@@ -13116,24 +13691,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 88 "unconnected-(SWX4,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "4488517a-c8e5-4925-8553-664123767b7c")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 88 "unconnected-(SWX4,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "38437b75-9693-414d-b94b-e7f055cc1783")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 56 "Net-(DX4,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "20df6950-d4be-4e3d-b4c9-ff1d105c30d8")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 56 "Net-(DX4,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "61c851ce-bc99-4b8f-97c7-be4107160115")
 		)
 	)
@@ -13143,7 +13730,7 @@
 		(at 171.23 115.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D21"
+		(property "Reference" "DX2,Y4"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "ed6db92c-b0b5-460c-840e-bfb6af730b38")
@@ -13154,7 +13741,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "97bf1db2-4f0f-47cd-97fd-55b8b789abcc")
@@ -13204,6 +13791,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bc7d00d-ef04-427d-9b3f-c93007719be0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/5d5f44a5-349a-41c1-9253-aac20d8a5b1c")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -13401,6 +14005,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 33 "unconnected-(DX2,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "266b5797-d3ce-41b7-9971-6393aae210f1")
 		)
 		(pad "1" smd roundrect
@@ -13408,6 +14015,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 33 "unconnected-(DX2,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "ae8fde65-8b32-44bc-a41c-c7c1945a9d11")
 		)
 		(pad "2" smd roundrect
@@ -13415,6 +14025,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 34 "Net-(DX2,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "d7ba8fa7-67a3-4ac0-b974-16b7b679d72c")
 		)
 		(pad "2" smd roundrect
@@ -13422,6 +14035,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 34 "Net-(DX2,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "94c788f6-e672-4db2-94ba-82ea78173b62")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -13453,7 +14069,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "3f69174d-8002-43da-8db2-7152b1c0d8ef")
@@ -13500,6 +14116,9 @@
 				)
 			)
 		)
+		(path "/36998e50-614d-4a60-a74f-df5fa9257b95")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -14470,7 +15089,7 @@
 			(uuid "0eee80eb-147c-4898-84c5-3cfa63630d8a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "d1658c38-1626-474f-ae1d-b17ffdc7481d")
 			(effects
@@ -14561,24 +15180,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 75 "unconnected-(SWX2,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "baa28930-d492-4231-aecb-19e82c8ef6b9")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 75 "unconnected-(SWX2,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "394fc221-2d35-4e36-88af-5fd0e977ec1b")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 30 "Net-(DX2,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "3a941b2b-11e5-4087-869b-b5951af45215")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 30 "Net-(DX2,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "e39230b1-bc04-4f62-9eaa-9a254421faa9")
 		)
 	)
@@ -14599,7 +15230,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "75cb155e-c392-4dbf-bc19-f7579f54b675")
@@ -14649,6 +15280,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6e118f62-ccd8-4745-9ef0-d915f2741822")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/c20cc739-1ce0-4743-8396-686fc193d91b")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -14846,6 +15494,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 59 "unconnected-(DX4,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "ec8a81c7-3f6d-4ee8-a19b-fdb61966378c")
 		)
 		(pad "1" smd roundrect
@@ -14853,6 +15504,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 59 "unconnected-(DX4,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "aa6bd413-b6e8-47ae-8ea2-e2c632f4bdcc")
 		)
 		(pad "2" smd roundrect
@@ -14860,6 +15514,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 60 "Net-(DX4,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "d6e8fc9f-9d34-4172-a70c-3a711f383166")
 		)
 		(pad "2" smd roundrect
@@ -14867,6 +15524,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 60 "Net-(DX4,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "f1c279f2-ca57-4ac2-872a-ce4f1f3b78de")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -14898,7 +15558,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "6ab9518e-2951-4402-8ef9-ca0189855226")
@@ -14945,6 +15605,9 @@
 				)
 			)
 		)
+		(path "/83d0a45d-7e30-446c-be66-a5fff2c7214e")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -15915,7 +16578,7 @@
 			(uuid "f38465ea-b8fc-4cf9-a2f4-81b69b1da051")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "b62be33a-b01a-4089-b1ec-2591ba7295a3")
 			(effects
@@ -16006,24 +16669,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 61 "unconnected-(SWX0,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "fa67b900-4c39-4b4c-a5eb-b93138e00c32")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 61 "unconnected-(SWX0,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "dade68bd-96c3-4a33-8087-dc7afe8fce9c")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 1 "Net-(DX0,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "cfa3dc96-a4b7-4d59-a6b1-a8625c8d8506")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 1 "Net-(DX0,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "ed0f7011-f7c2-48e1-8b22-c37dfe41ebbc")
 		)
 	)
@@ -16033,7 +16708,7 @@
 		(at 171.23 132.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D20"
+		(property "Reference" "DX1,Y4"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "4f05616a-c14e-429e-9c2e-355b0fbc50e7")
@@ -16044,7 +16719,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "24543867-6d37-46e2-ab08-6e0477bb02ef")
@@ -16094,6 +16769,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a92b08e-5a4d-40b1-998a-0d10016a1175")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/48b911a3-e65a-4233-8a14-fc072d47f7a7")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -16291,6 +16983,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 22 "unconnected-(DX1,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "9955f5c1-818c-4f5c-b88f-07231a9a05bf")
 		)
 		(pad "1" smd roundrect
@@ -16298,6 +16993,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 22 "unconnected-(DX1,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "52399641-0a3b-42f7-ace6-4a84de9a9465")
 		)
 		(pad "2" smd roundrect
@@ -16305,6 +17003,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 21 "Net-(DX1,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "17638708-4654-47b7-9c7d-0bca4abf92f8")
 		)
 		(pad "2" smd roundrect
@@ -16312,6 +17013,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 21 "Net-(DX1,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "1b7ee7f8-1aa7-47ad-9a8a-5621e990a1e6")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -16343,7 +17047,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "b15aeebc-3ff3-49e9-8f4e-6f95d7a1d1c6")
@@ -16393,6 +17097,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ea94b60-2e15-4104-a4cc-d7672f634bf1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/f214be1c-3285-4b97-8ef5-b8a2356eb287")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -16590,6 +17311,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 37 "unconnected-(DX3,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "15d08d35-edf8-4390-9816-193e3ac53529")
 		)
 		(pad "1" smd roundrect
@@ -16597,6 +17321,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 37 "unconnected-(DX3,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "d95d3311-865e-4ad0-8cf4-63b64ce98f8e")
 		)
 		(pad "2" smd roundrect
@@ -16604,6 +17331,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 38 "Net-(DX3,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "3dac8500-1b6f-41fc-9f0b-20c587c490b3")
 		)
 		(pad "2" smd roundrect
@@ -16611,6 +17341,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 38 "Net-(DX3,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "9d2683ba-3e61-4731-9c4a-bfa390505e6f")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -16642,7 +17375,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "d08576ff-b9d2-4e69-881a-cd7441b6ee76")
@@ -16689,6 +17422,9 @@
 				)
 			)
 		)
+		(path "/059413eb-d681-4651-ae40-04c4ab045112")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -17659,7 +18395,7 @@
 			(uuid "d760ce01-cbbb-4fa4-9c00-b031e9b40545")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "d44d0d3b-d447-4d11-99e2-30cd2d11d4ea")
 			(effects
@@ -17750,24 +18486,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 83 "unconnected-(SWX3,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "10ea39ca-98d4-48fd-88a2-66f22d8abd26")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 83 "unconnected-(SWX3,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "d17729bb-ff2f-423a-ab90-72277cb1584d")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 46 "Net-(DX3,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "51c77eda-3243-47a8-90a9-8038fd179f2e")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 46 "Net-(DX3,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "d90e37ca-5242-4547-bbe0-4a058ee13679")
 		)
 	)
@@ -17788,7 +18536,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "9b9906fe-7fed-4573-a75c-b832ede953a5")
@@ -17835,6 +18583,9 @@
 				)
 			)
 		)
+		(path "/215f65a5-5525-4778-bc12-0bc7abfbd0df")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -18805,7 +19556,7 @@
 			(uuid "69178d44-5979-4efc-ac36-9ab5b405e949")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "eee924e3-af18-4990-8ad9-739f122ab5e3")
 			(effects
@@ -18896,24 +19647,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 78 "unconnected-(SWX2,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "00b125df-dbba-448b-aac0-57995a7d6c1f")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 78 "unconnected-(SWX2,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "ff970685-e99d-4070-bbcf-90bec3fd6b1e")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 35 "Net-(DX2,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "a85f785f-1bf1-42f9-ac39-40f46adf14d2")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 35 "Net-(DX2,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "a63e7650-77fc-481d-bfaf-ba26400f0e38")
 		)
 	)
@@ -18934,7 +19697,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "1179ff5d-f773-4fac-8937-155ad1b81461")
@@ -18984,6 +19747,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "26640c07-64b4-40e8-b851-467a9f0fb843")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/5e24bc2b-a534-4098-8565-04da2c57e68e")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -19181,6 +19961,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 39 "unconnected-(DX3,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "76ee7722-924a-4fe6-8747-423e136d6d45")
 		)
 		(pad "1" smd roundrect
@@ -19188,6 +19971,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 39 "unconnected-(DX3,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "850d9f9c-4f77-4a8f-8976-e3c97e47eb20")
 		)
 		(pad "2" smd roundrect
@@ -19195,6 +19981,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 40 "Net-(DX3,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "d782fddf-f1ab-4dc4-81f4-185ff4d7d00b")
 		)
 		(pad "2" smd roundrect
@@ -19202,6 +19991,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 40 "Net-(DX3,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "fd98441b-0d3c-4074-9b7e-f264e5c3a2b4")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -19213,6 +20005,1112 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Keebio-Parts.pretty-master:ArduinoProMicro"
+		(layer "F.Cu")
+		(uuid "861fadea-c301-4de0-8d97-18fdce264b1a")
+		(at 220.98 87.63 -90)
+		(property "Reference" "U1"
+			(at 0 1.625 90)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0263f904-bac7-42a4-8cfa-6902a0b3b17e")
+			(effects
+				(font
+					(size 1.27 1.524)
+					(thickness 0.2032)
+				)
+			)
+		)
+		(property "Value" "ProMicro"
+			(at 0 0 90)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "0ba08d18-bf75-4204-bd28-5a6de38fb7e1")
+			(effects
+				(font
+					(size 1.27 1.524)
+					(thickness 0.2032)
+				)
+			)
+		)
+		(property "Footprint" "Keebio-Parts.pretty-master:ArduinoProMicro"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e4abc32-4eec-423c-983a-48f4ede3e964")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54ec2f6d-07ab-4e27-9e82-1f22c1916b2f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0e1ae2b5-4c89-4d09-aafe-e81b7af4a7b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole)
+		(fp_line
+			(start -17.78 8.89)
+			(end 15.24 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a819cb58-6c87-4859-92a5-8dd15bb1839e")
+		)
+		(fp_line
+			(start 15.24 8.89)
+			(end 15.24 -8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "b93ddb51-f097-4f17-8949-9c7dfc876722")
+		)
+		(fp_line
+			(start -15.24 6.35)
+			(end -15.24 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "40c329b8-9f67-4b2e-868d-77af672a11cc")
+		)
+		(fp_line
+			(start -15.24 6.35)
+			(end -12.7 6.35)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a3600e46-17a6-45bc-9c01-20d1044c2763")
+		)
+		(fp_line
+			(start -12.7 6.35)
+			(end -12.7 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "290e71c5-bd00-4f22-9e64-7a552fce2565")
+		)
+		(fp_line
+			(start -17.78 -8.89)
+			(end -17.78 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "58eb216f-2a97-45e6-80a5-99d8e68c5084")
+		)
+		(fp_line
+			(start 15.24 -8.89)
+			(end -17.78 -8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "58eae1dd-0473-4281-9ac1-93c615eff64e")
+		)
+		(fp_poly
+			(pts
+				(xy -9.35097 -5.844635) (xy -9.25097 -5.844635) (xy -9.25097 -6.344635) (xy -9.35097 -6.344635)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "B.SilkS")
+			(uuid "7e3967ee-108f-4690-96b0-d3f7cf862b07")
+		)
+		(fp_poly
+			(pts
+				(xy -9.35097 -5.844635) (xy -9.05097 -5.844635) (xy -9.05097 -5.944635) (xy -9.35097 -5.944635)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "B.SilkS")
+			(uuid "c39db46a-6eeb-476d-ba5d-e307ff69e25a")
+		)
+		(fp_poly
+			(pts
+				(xy -8.75097 -5.844635) (xy -8.55097 -5.844635) (xy -8.55097 -5.944635) (xy -8.75097 -5.944635)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "B.SilkS")
+			(uuid "4ea5fd5a-d95a-42cc-ba94-81634f88a5b0")
+		)
+		(fp_poly
+			(pts
+				(xy -8.95097 -6.044635) (xy -8.85097 -6.044635) (xy -8.85097 -6.144635) (xy -8.95097 -6.144635)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "B.SilkS")
+			(uuid "abb565c6-01ab-4560-b8ea-269e9914d43a")
+		)
+		(fp_poly
+			(pts
+				(xy -9.35097 -6.244635) (xy -8.55097 -6.244635) (xy -8.55097 -6.344635) (xy -9.35097 -6.344635)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "B.SilkS")
+			(uuid "1dadefcc-87c4-4571-8678-c39b06c08cd7")
+		)
+		(fp_line
+			(start -17.78 8.89)
+			(end -15.24 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "c1d5f660-fb69-4755-9d8b-8015a3791683")
+		)
+		(fp_line
+			(start -15.24 8.89)
+			(end 15.24 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d42dc611-a504-418d-9571-5ce3d549e5ac")
+		)
+		(fp_line
+			(start 15.24 8.89)
+			(end 15.24 -8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "f1cd6ae8-d398-4d3e-ad9b-b9153c70bd1b")
+		)
+		(fp_line
+			(start -15.24 6.35)
+			(end -15.24 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a3684a47-d419-48db-945e-9405a38b88e8")
+		)
+		(fp_line
+			(start -15.24 6.35)
+			(end -12.7 6.35)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "250181e7-03c9-4a95-ae55-6db4476986a5")
+		)
+		(fp_line
+			(start -12.7 6.35)
+			(end -12.7 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0f6b3a43-649e-4836-ba79-a2c9adc4f149")
+		)
+		(fp_line
+			(start -17.78 -8.89)
+			(end -17.78 8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "b375822d-81a6-4765-b52f-c1aebd098f0b")
+		)
+		(fp_line
+			(start -15.24 -8.89)
+			(end -17.78 -8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ba6287a7-72e1-4710-9617-2b3fc2b197bb")
+		)
+		(fp_line
+			(start 15.24 -8.89)
+			(end -15.24 -8.89)
+			(stroke
+				(width 0.381)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a34e536a-465c-439b-93ca-788c6dd3954e")
+		)
+		(fp_poly
+			(pts
+				(xy -9.36064 -4.531568) (xy -8.56064 -4.531568) (xy -8.56064 -4.431568) (xy -9.36064 -4.431568)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "f29aa9ed-f6c1-45db-a8a6-2d3181d0db93")
+		)
+		(fp_poly
+			(pts
+				(xy -8.96064 -4.731568) (xy -8.86064 -4.731568) (xy -8.86064 -4.631568) (xy -8.96064 -4.631568)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "6611155a-3795-41db-acbc-ddb79efa3534")
+		)
+		(fp_poly
+			(pts
+				(xy -9.36064 -4.931568) (xy -9.26064 -4.931568) (xy -9.26064 -4.431568) (xy -9.36064 -4.431568)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "10de7a47-5361-4b0d-806b-e5e359772150")
+		)
+		(fp_poly
+			(pts
+				(xy -9.36064 -4.931568) (xy -9.06064 -4.931568) (xy -9.06064 -4.831568) (xy -9.36064 -4.831568)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "f32bf270-1d18-413f-815c-7ee63d1efd1a")
+		)
+		(fp_poly
+			(pts
+				(xy -8.76064 -4.931568) (xy -8.56064 -4.931568) (xy -8.56064 -4.831568) (xy -8.76064 -4.831568)
+			)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill solid)
+			(layer "F.SilkS")
+			(uuid "e9eb86d4-5a0b-4aac-b7ea-2cbcd74b3956")
+		)
+		(fp_line
+			(start -19.304 3.81)
+			(end -19.304 -3.556)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "6dc5c8f4-8283-43bb-8f38-83c2eb2c0dcb")
+		)
+		(fp_line
+			(start -14.224 3.81)
+			(end -19.304 3.81)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "ffa3ca73-dddc-4cf8-b7da-0eae0de1d658")
+		)
+		(fp_line
+			(start -19.304 -3.556)
+			(end -14.224 -3.556)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "f092f8d3-5993-4fd7-b6d7-c06a4da014ad")
+		)
+		(fp_line
+			(start -14.224 -3.556)
+			(end -14.224 3.81)
+			(stroke
+				(width 0.2)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "ff4a3091-6ee9-4240-9a9a-5e0b096ec5ce")
+		)
+		(fp_text user "B6"
+			(at 13.97 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "05686042-a319-45c6-83c3-fae835b593a5")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B4"
+			(at 11.43 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "0d2c6d17-9b88-4f9c-9620-819a806b97f0")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "GND"
+			(at -8.89 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "1473062f-d99e-4de8-8929-b3b90b9674bc")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F6"
+			(at 1.27 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "16d96602-d082-4b55-bd55-9c0b2a092a77")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D4"
+			(at 1.27 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "2091470a-0f7d-4d96-b8bd-eaaabb0866bc")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B6"
+			(at 13.97 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "257ca492-53ee-4fb2-b304-93416ef2cc97")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "RAW"
+			(at -13.97 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "260730ff-ccc7-4010-afd2-b087a5f52feb")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D2"
+			(at -11.43 5.461 360)
+			(layer "F.SilkS")
+			(uuid "2cfebe62-a7ca-4461-82d9-60aba663f4ef")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "C6"
+			(at 3.81 5.461 360)
+			(layer "F.SilkS")
+			(uuid "2e9e4c6b-4da8-486e-85a6-7cb0b6d27c80")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F4"
+			(at -3.81 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "2f267faa-e3b3-48cd-983f-5f60f973a933")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "RST"
+			(at -8.89 -3.245687 0)
+			(layer "F.SilkS")
+			(uuid "3319155d-d222-4b57-a969-21719a80706e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F6"
+			(at 1.27 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "38c6070b-2ae3-47f2-bcdf-98d3e5a13683")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D1"
+			(at -3.81 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "4ca4bd38-7ffb-497c-aedb-a4fab7c2d975")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "GND"
+			(at -11.43 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "4df18ef1-c998-4345-adad-127b7468b851")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F4"
+			(at -3.81 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "5203dccf-defc-4465-8bab-8c072494d9f7")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "TX0/D3"
+			(at -13.97 3.571872 360)
+			(layer "F.SilkS")
+			(uuid "54d36756-877d-4364-a8d3-64fa5067150e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B5"
+			(at 13.97 5.461 360)
+			(layer "F.SilkS")
+			(uuid "5b2f3a90-71d2-45a5-b6a8-7c87421143e2")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D2"
+			(at -11.43 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "60ec76f4-9c50-4fda-a5e7-c74f93e8a8a2")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "RAW"
+			(at -13.97 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "70b97a35-1668-4624-b370-277308b2da9b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "GND"
+			(at -6.35 5.461 360)
+			(layer "F.SilkS")
+			(uuid "716b3591-7751-4dd2-a2a8-581dfeeda8ac")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "E6"
+			(at 8.89 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "728ce058-315e-4f16-8433-d426ca8517e5")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D0"
+			(at -1.27 5.461 360)
+			(layer "F.SilkS")
+			(uuid "7c11f7f2-645c-4c1d-9104-1c35e6528cf3")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B2"
+			(at 11.43 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "7d13a32e-ca9e-481f-bee9-c03bc1fc4ac3")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F5"
+			(at -1.27 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "7d16a72c-70e6-4ac6-9a7f-ba96d6320b89")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "GND"
+			(at -8.89 5.461 360)
+			(layer "F.SilkS")
+			(uuid "821cc8b6-214c-42cb-a085-2fd1ef3c1453")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B1"
+			(at 6.35 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "8380944b-9752-4360-976a-23cf118d6e5e")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D7"
+			(at 6.35 5.461 360)
+			(layer "F.SilkS")
+			(uuid "87a8c420-5e26-40e5-b13f-8dca906626a4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D7"
+			(at 6.35 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "938c71b9-c423-402c-8e60-e66680178381")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "VCC"
+			(at -6.35 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "9b77f7a1-b051-4cc4-956b-e93c1d1d2aba")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "GND"
+			(at -11.43 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "a529cbc9-a339-4d41-a014-a320283d892d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B2"
+			(at 11.43 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "ab0ea7c8-0c6e-4d7a-bab5-a5b42839384c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D4"
+			(at 1.27 5.461 360)
+			(layer "F.SilkS")
+			(uuid "b1060e21-beb9-40bc-9a10-99cadb3202d4")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B1"
+			(at 6.35 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "b5653f47-c53a-4cf3-a145-cec87a88f1d9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "E6"
+			(at 8.89 5.461 360)
+			(layer "F.SilkS")
+			(uuid "bee2362b-4a12-4ae4-af79-dd961c385f5c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F7"
+			(at 3.81 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "c089e5e7-b378-42f0-b838-f1dd88c0747d")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F5"
+			(at -1.27 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "c9401165-380f-41f1-8916-a3e6bf51dea9")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "GND"
+			(at -6.35 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "d0bd3ddf-56fc-4620-81ba-a7cfd43a157b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "F7"
+			(at 3.81 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "d18cadfe-c91b-4be5-9934-7db9a62c140b")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B3"
+			(at 8.89 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "d6636c74-845b-4300-9d34-048e18e4d64c")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B3"
+			(at 8.89 -5.461 360)
+			(layer "F.SilkS")
+			(uuid "d72d1d72-a500-44c4-9de5-71999ba87570")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D0"
+			(at -1.27 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "dc90167f-501b-4270-bace-260dfc16f559")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "C6"
+			(at 3.81 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "dd151275-8d7a-4fb6-aa95-94767f6458ff")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B5"
+			(at 13.97 5.461 -360)
+			(layer "F.SilkS")
+			(uuid "e1e8e690-8b70-44d4-95f9-30969d00b3db")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "TX0/D3"
+			(at -13.97 3.571872 -360)
+			(layer "F.SilkS")
+			(uuid "e5eb7665-2f46-4980-a863-5a550694a3db")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "B4"
+			(at 11.43 5.461 360)
+			(layer "F.SilkS")
+			(uuid "e7e2795b-55c5-49f5-a34f-84581389e58f")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "VCC"
+			(at -6.35 -5.461 -360)
+			(layer "F.SilkS")
+			(uuid "eb9b507c-d2de-4c4d-a110-3bfee601f6da")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(fp_text user "D1"
+			(at -3.81 5.461 360)
+			(layer "F.SilkS")
+			(uuid "f320adff-5288-40f7-be0f-dbff618b9ae7")
+			(effects
+				(font
+					(size 0.8 0.8)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at -13.97 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "a737ff52-9136-4df5-aa40-63bfadd03bd5")
+		)
+		(pad "2" thru_hole circle
+			(at -11.43 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "d08eaf06-d249-4ce8-ae2f-273e44b9e492")
+		)
+		(pad "3" thru_hole circle
+			(at -8.89 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "34a8c15e-23d5-4bee-89b1-3c9a9f0d6f9c")
+		)
+		(pad "4" thru_hole circle
+			(at -6.35 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "8f684610-55b0-46df-8a5b-3eb492117a07")
+		)
+		(pad "5" thru_hole circle
+			(at -3.81 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "315d468e-3522-4e95-98be-7f8ecfc7f148")
+		)
+		(pad "6" thru_hole circle
+			(at -1.27 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "536f201e-8807-4b39-86f3-997d98e8d50e")
+		)
+		(pad "7" thru_hole circle
+			(at 1.27 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "03c70c91-8806-4bf2-8d3d-9b1019569485")
+		)
+		(pad "8" thru_hole circle
+			(at 3.81 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "7e070f13-f22f-4abc-a857-1929c1a7dc2b")
+		)
+		(pad "9" thru_hole circle
+			(at 6.35 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "fba4bd3f-e36d-4815-ba28-36f15b8f2cc9")
+		)
+		(pad "10" thru_hole circle
+			(at 8.89 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "f0cd36ce-7cab-4d3f-b157-b0aa7f20d81d")
+		)
+		(pad "11" thru_hole circle
+			(at 11.43 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "01cfc6bb-fc72-40f6-b679-b40f3aafa063")
+		)
+		(pad "12" thru_hole circle
+			(at 13.97 7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "ce105bbd-2b9d-48be-ab48-ff247d34b1d3")
+		)
+		(pad "13" thru_hole circle
+			(at 13.97 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "f9ecfc24-7718-4900-adef-a6ca0a9e3d98")
+		)
+		(pad "14" thru_hole circle
+			(at 11.43 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "4ba06801-5bef-4924-beaf-59b494d9ca01")
+		)
+		(pad "15" thru_hole circle
+			(at 8.89 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "5130e8eb-33d5-4085-b0aa-4a61a1b61492")
+		)
+		(pad "16" thru_hole circle
+			(at 6.35 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "40836bf6-6822-4361-8dea-4a876b7538aa")
+		)
+		(pad "17" thru_hole circle
+			(at 3.81 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "1f68e9b5-58f5-4d06-be56-63cef56ed633")
+		)
+		(pad "18" thru_hole circle
+			(at 1.27 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "32e33d02-a3ca-4954-8348-953730a799ae")
+		)
+		(pad "19" thru_hole circle
+			(at -1.27 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "d7fa0e0a-162e-49d2-91e7-ff1bac06fe30")
+		)
+		(pad "20" thru_hole circle
+			(at -3.81 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "b5a12ef6-5b76-4c45-b09e-502035feb17f")
+		)
+		(pad "21" thru_hole circle
+			(at -6.35 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "5f3a8632-0ae8-4287-8786-be5db2c4c22d")
+		)
+		(pad "22" thru_hole circle
+			(at -8.89 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "d4ed9243-e7b0-4a80-a9c1-f76af6a2d882")
+		)
+		(pad "23" thru_hole circle
+			(at -11.43 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "c5669f6d-f0c2-4d85-9e23-6bf377318213")
+		)
+		(pad "24" thru_hole circle
+			(at -13.97 -7.62 270)
+			(size 1.7526 1.7526)
+			(drill 1.0922)
+			(layers "*.Cu" "*.SilkS" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "5bb3894b-0075-4b7c-aa9d-0a61ea55c131")
+		)
+		(model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/ArduinoProMicro.wrl"
+			(offset
+				(xyz -13.96999979 -7.619999886 -5.841999912)
+			)
+			(scale
+				(xyz 0.395 0.395 0.395)
+			)
+			(rotate
+				(xyz 90 180 180)
 			)
 		)
 	)
@@ -19459,7 +21357,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "2ab972fd-6278-4fcf-8dda-1952b8087554")
@@ -19506,6 +21404,9 @@
 				)
 			)
 		)
+		(path "/c5510dae-0467-43ea-b3e0-8172f0422dc9")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -20476,7 +22377,7 @@
 			(uuid "f6d68230-6fd9-40df-b388-780f32b356a7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "d616e048-9790-48ab-9eff-811f8ed781c2")
 			(effects
@@ -20567,24 +22468,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 74 "unconnected-(SWX2,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "5c017afd-6ae4-408c-bedb-2130e626e7b7")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 74 "unconnected-(SWX2,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "08a041f7-884e-4565-912a-3fe0e3daae82")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 28 "Net-(DX2,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "baab4f85-c8e8-42ec-9192-c8de29c0b100")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 28 "Net-(DX2,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "66c96944-629f-4a77-ac84-2069a7d1dc6d")
 		)
 	)
@@ -20594,8 +22507,8 @@
 		(at 198.992348 155.946647 -20)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D28"
-			(at 0 -2 -20)
+		(property "Reference" "DX0,Y3"
+			(at 0 -2 160)
 			(layer "F.SilkS")
 			(uuid "4a84e9dc-dde5-4103-821e-d8e8645225e3")
 			(effects
@@ -20605,8 +22518,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 2.1 -20)
+		(property "Value" "~"
+			(at 0 2.1 160)
 			(layer "F.Fab")
 			(uuid "5a7c3ea3-54be-4bd9-9a4d-6ed843d98ad1")
 			(effects
@@ -20655,6 +22568,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 -20)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d1caa2c4-2ed9-42c1-b23d-a38eb8e2db76")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/c0b284d5-4d5e-42fd-a248-c65ed16265d0")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 1)
@@ -20837,7 +22767,7 @@
 			(uuid "8db88da9-059f-47c5-bbd9-bdd63edd3b0b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -2 -20)
+			(at 0 -2 160)
 			(layer "F.Fab")
 			(uuid "5424d1c5-496a-43b4-93f9-e8c46a965ab2")
 			(effects
@@ -20852,6 +22782,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 7 "unconnected-(DX0,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "9a6a78cd-10ca-4e87-965e-67aa4e5315de")
 		)
 		(pad "1" smd roundrect
@@ -20859,6 +22792,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 7 "unconnected-(DX0,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "7c96c5d0-176a-4c09-b5fd-a244495256ec")
 		)
 		(pad "2" smd roundrect
@@ -20866,6 +22802,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 8 "Net-(DX0,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "f4b0b976-6806-4756-8309-0b4d1705ff50")
 		)
 		(pad "2" smd roundrect
@@ -20873,6 +22812,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 8 "Net-(DX0,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "a5849369-24ba-49b1-b4b1-403053667cbc")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -20904,7 +22846,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "c130a5cc-8984-4d34-b5be-5b12736bdc99")
@@ -20951,6 +22893,9 @@
 				)
 			)
 		)
+		(path "/dac23afd-cbff-43ee-9c2f-1b1a0caa78f1")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -21921,7 +23866,7 @@
 			(uuid "98b96fd9-6fd9-4bdb-b7ca-b45db23c2d2e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "8794e5f9-0121-436a-8bc3-1e21306c223e")
 			(effects
@@ -22012,24 +23957,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 70 "unconnected-(SWX1,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "6b3992e2-d3b2-4ced-b683-647f7f35f4ae")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 70 "unconnected-(SWX1,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "22c2588e-3004-47dc-9440-65ef4f4e0ff1")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 20 "Net-(DX1,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "2e6c8fbd-3ffb-4a8f-90a5-57c3d79692e5")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 20 "Net-(DX1,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "6d2bde21-59f3-45ad-adec-d743b0a16671")
 		)
 	)
@@ -22050,7 +24007,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 160)
 			(layer "F.Fab")
 			(uuid "2c3028f5-7bbc-4cf8-95ae-13608c8d9823")
@@ -22097,6 +24054,9 @@
 				)
 			)
 		)
+		(path "/39b588d5-5fc4-4bcb-8deb-146bd34be2e8")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 7)
@@ -22502,7 +24462,7 @@
 		)
 		(fp_arc
 			(start -2.5 -2.2)
-			(mid -2.060659 -3.26066)
+			(mid -2.060659 -3.260659)
 			(end -1 -3.7)
 			(stroke
 				(width 0.15)
@@ -22513,7 +24473,7 @@
 		)
 		(fp_arc
 			(start -2 -6.7)
-			(mid -2.146447 -6.346446)
+			(mid -2.146446 -6.346447)
 			(end -2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -23046,7 +25006,7 @@
 		)
 		(fp_arc
 			(start -2.5 -2.2)
-			(mid -2.060659 -3.26066)
+			(mid -2.060659 -3.260659)
 			(end -1 -3.7)
 			(stroke
 				(width 0.15)
@@ -23057,7 +25017,7 @@
 		)
 		(fp_arc
 			(start -2 -6.7)
-			(mid -2.146447 -6.346446)
+			(mid -2.146446 -6.346447)
 			(end -2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -23159,24 +25119,36 @@
 			(at -3.275 -5.95 340)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 66 "unconnected-(SWX0,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "fe3a4a0a-fb26-4463-9fd8-d17c3ab2edde")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95 340)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 66 "unconnected-(SWX0,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "4297a475-d195-43ed-81ae-041be26184b6")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75 340)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 12 "Net-(DX0,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "b9d87ee6-faa3-4602-82fd-b32bc7525dce")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75 340)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 12 "Net-(DX0,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "f889a8dc-87f9-4b46-9bf3-afd82934af13")
 		)
 	)
@@ -23186,7 +25158,7 @@
 		(at 171.23 149.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D19"
+		(property "Reference" "DX0,Y2"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "5f3941a0-cc5e-45a0-98cc-bfd7ec1f8eb5")
@@ -23197,7 +25169,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "de7a8116-0cad-402c-b2ce-83beca1c5503")
@@ -23247,6 +25219,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "43da6217-9abb-4aab-8eac-42cb278ae9e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/b354ef54-7084-424d-aa8b-6ecb855ec275")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -23444,6 +25433,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 6 "unconnected-(DX0,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "eb0dc4b7-1004-4118-9684-338ddccff312")
 		)
 		(pad "1" smd roundrect
@@ -23451,6 +25443,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 6 "unconnected-(DX0,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "eb30580c-3e31-436a-93e1-180201a2078c")
 		)
 		(pad "2" smd roundrect
@@ -23458,6 +25453,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 5 "Net-(DX0,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ccd271ca-c14c-4ea5-a69f-0fb64c28de7e")
 		)
 		(pad "2" smd roundrect
@@ -23465,6 +25463,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 5 "Net-(DX0,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "8c76ba56-26e3-4773-8bd4-4b8e06baff4d")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -23496,7 +25497,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "6a8eb2a8-bb09-42bc-8c58-62f85aca44a7")
@@ -23543,6 +25544,9 @@
 				)
 			)
 		)
+		(path "/0c6c26c5-e12c-4402-88cb-530b574dccaa")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -24513,7 +26517,7 @@
 			(uuid "f1e95561-ac31-4ef7-a1f3-442bee2b18e2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "0c76f716-f573-492c-8e55-d9bdb7227093")
 			(effects
@@ -24604,24 +26608,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 77 "unconnected-(SWX2,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "33fe600b-9c6a-4291-8c01-e278bee48160")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 77 "unconnected-(SWX2,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "32ce9b35-dff0-46fd-b72e-236e95baa878")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 34 "Net-(DX2,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "ed8bb703-a651-4c74-a09c-1f4f913b2746")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 34 "Net-(DX2,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "62172739-5236-44b4-83b2-ae8434def3ca")
 		)
 	)
@@ -24642,7 +26658,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "b2778fc0-0477-45bf-a49c-dd996724c6f2")
@@ -24689,6 +26705,9 @@
 				)
 			)
 		)
+		(path "/50b23ec6-d0f8-44ca-bf1f-3b73360b9e1c")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -25659,7 +27678,7 @@
 			(uuid "e0fe22be-af06-4eb5-aeda-af6665e79472")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "bda5c933-4d0c-44ea-96b7-f0dada895b5a")
 			(effects
@@ -25750,24 +27769,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 69 "unconnected-(SWX1,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "9f64c6d4-ce46-4315-ad1e-46b74a110516")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 69 "unconnected-(SWX1,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "aa6a40af-0754-4f98-89ee-a1ccbed0cfc4")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 18 "Net-(DX1,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "47b0d6d9-f40a-4207-810b-7f0cf05dde03")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 18 "Net-(DX1,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "942a73a1-71c4-40d4-9499-f4d19660b5c6")
 		)
 	)
@@ -25788,7 +27819,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "8eada097-bc5a-4ea6-86e9-d3a9ebf9df74")
@@ -25838,6 +27869,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76ec9d0c-ebce-4df0-b5a4-6985d0a4bad1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/dce82c21-c638-414d-b947-60b29dfbc27d")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -26035,6 +28083,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 47 "unconnected-(DX3,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "f6dbd9ff-c04e-40d4-8c59-2cba0326fee9")
 		)
 		(pad "1" smd roundrect
@@ -26042,6 +28093,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 47 "unconnected-(DX3,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "c76f69ae-bcfb-43e6-a426-d40927dbeee3")
 		)
 		(pad "2" smd roundrect
@@ -26049,6 +28103,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 48 "Net-(DX3,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "e8b6d703-23ef-42e9-a91c-e31a3ccc2268")
 		)
 		(pad "2" smd roundrect
@@ -26056,6 +28113,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 48 "Net-(DX3,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "f2a999da-a86d-47f1-97f8-1fe03cc9ad99")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -26087,7 +28147,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "21ae9c5c-5ce7-4022-8abd-d799cb78b100")
@@ -26137,6 +28197,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3103cd72-bf8a-46cb-8a77-4b72508f0f64")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/291649de-781f-4d56-8864-ebea03dae1ea")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -26334,6 +28411,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 49 "unconnected-(DX4,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "1974cbed-917e-40f5-82a9-707174eb256a")
 		)
 		(pad "1" smd roundrect
@@ -26341,6 +28421,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 49 "unconnected-(DX4,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "63031c87-62c0-4d79-b634-91f21c62ceb6")
 		)
 		(pad "2" smd roundrect
@@ -26348,6 +28431,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 50 "Net-(DX4,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "f45db561-54f8-4455-9ad5-25d539244714")
 		)
 		(pad "2" smd roundrect
@@ -26355,6 +28441,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 50 "Net-(DX4,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "89c1c298-f834-4a3c-8b5b-69c6fb8a28f2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -26386,7 +28475,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "3f377b59-9b0c-43b4-973d-dd25c4c1f99e")
@@ -26433,6 +28522,9 @@
 				)
 			)
 		)
+		(path "/ee075861-53f6-40c1-b11c-f0d44c44f5c6")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -27403,7 +29495,7 @@
 			(uuid "5b3a1bca-00cd-4c64-bd73-db842af7c2ae")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "ab36371c-2d35-410a-bf1d-f5a2ec0f23d0")
 			(effects
@@ -27494,24 +29586,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 62 "unconnected-(SWX0,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "05daef6b-43e1-47b8-9c5b-b98ab1534c43")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 62 "unconnected-(SWX0,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "c890c17a-7518-4e9b-b8d8-933b36494242")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 3 "Net-(DX0,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "f0761d85-670f-41f0-9cf4-151df3f17983")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 3 "Net-(DX0,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "faa39787-4af6-4f62-8088-fdb43507c50e")
 		)
 	)
@@ -27521,7 +29625,7 @@
 		(at 171.23 76.12)
 		(descr "Kailh \"Choc\" PG1350 keyswitch with optional socket mount, reversible")
 		(tags "kailh,choc")
-		(property "Reference" "SWX4,Y5"
+		(property "Reference" "SWX4,Y4"
 			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "6deafbe6-4613-4f97-a769-734134cd9595")
@@ -27532,7 +29636,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "dd3073d2-ee8f-4a4a-ae01-dc571d82d1cf")
@@ -27579,6 +29683,9 @@
 				)
 			)
 		)
+		(path "/bbeb2ade-45ae-41c6-a87d-2a0342622d3c")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -28549,7 +30656,7 @@
 			(uuid "f06eb0ae-4486-4535-a78b-ac3181234215")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "7bdb9780-36fe-401a-8d2d-542ca047a127")
 			(effects
@@ -28640,24 +30747,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 89 "unconnected-(SWX4,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "540ef85f-f536-48e4-876d-881597b46643")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 89 "unconnected-(SWX4,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "e79a1ff2-0135-4852-9394-8129a8f41344")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 58 "Net-(DX4,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "2afc779b-7b1a-45e5-8a51-317cd78c8201")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 58 "Net-(DX4,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "b36f0476-35d4-427a-a6eb-be5db27005e6")
 		)
 	)
@@ -28678,7 +30797,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 160)
 			(layer "F.Fab")
 			(uuid "4af40fe1-634c-444b-b614-db38f8a64464")
@@ -28725,6 +30844,9 @@
 				)
 			)
 		)
+		(path "/88e1aa0d-4928-4d03-bc29-063220a168d4")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 7)
@@ -29130,7 +31252,7 @@
 		)
 		(fp_arc
 			(start -2.5 -2.2)
-			(mid -2.060659 -3.26066)
+			(mid -2.060659 -3.260659)
 			(end -1 -3.7)
 			(stroke
 				(width 0.15)
@@ -29141,7 +31263,7 @@
 		)
 		(fp_arc
 			(start -2 -6.7)
-			(mid -2.146447 -6.346446)
+			(mid -2.146446 -6.346447)
 			(end -2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -29674,7 +31796,7 @@
 		)
 		(fp_arc
 			(start -2.5 -2.2)
-			(mid -2.060659 -3.26066)
+			(mid -2.060659 -3.260659)
 			(end -1 -3.7)
 			(stroke
 				(width 0.15)
@@ -29685,7 +31807,7 @@
 		)
 		(fp_arc
 			(start -2 -6.7)
-			(mid -2.146447 -6.346446)
+			(mid -2.146446 -6.346447)
 			(end -2.5 -6.2)
 			(stroke
 				(width 0.15)
@@ -29786,24 +31908,36 @@
 			(at -3.275 -5.95 340)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 65 "unconnected-(SWX0,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "2007d170-1f80-4644-b984-bc4026fa9d8c")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95 340)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 65 "unconnected-(SWX0,Y4-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "4e0d847a-4b20-4261-869a-cbf9d1393b28")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75 340)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 9 "Net-(DX0,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "ba3c4002-00fb-4638-985a-ecde773bd334")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75 340)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 9 "Net-(DX0,Y4-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "4445cb75-a408-491c-aec2-c00148c84076")
 		)
 	)
@@ -29824,7 +31958,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "775e298c-89d8-4daf-8d27-dff60bd363a1")
@@ -29871,6 +32005,9 @@
 				)
 			)
 		)
+		(path "/0f002144-5e50-4440-8618-682d6b0d2d05")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -30841,7 +32978,7 @@
 			(uuid "44b5d9f6-d983-40c3-97a5-e965995d0fa9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "bf9d4e1b-a10d-4328-ba36-b8a6b38e4ea4")
 			(effects
@@ -30932,24 +33069,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 76 "unconnected-(SWX2,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "05110e4f-a766-4cda-9d73-5b58bf41029c")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 76 "unconnected-(SWX2,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "93d820ca-aacd-491b-9aa3-4d8c495c7136")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 31 "Net-(DX2,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "c1d1544c-008e-4cd0-95ba-b665254de2b4")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 31 "Net-(DX2,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "657e86f3-236b-42a2-a2d2-82bc1d6cc111")
 		)
 	)
@@ -30970,7 +33119,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "44ae4154-67bc-4249-9357-5438fa3163f7")
@@ -31017,6 +33166,9 @@
 				)
 			)
 		)
+		(path "/63510a62-5893-4e37-a6c5-2cf492880de3")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -31987,7 +34139,7 @@
 			(uuid "cefa68e1-d883-4da9-a8b1-a2d07921ebc8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "c5d81519-d447-4878-b184-2cc382a930fe")
 			(effects
@@ -32078,24 +34230,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 82 "unconnected-(SWX3,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "06489924-5909-4ddc-86f5-8bf876f39193")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 82 "unconnected-(SWX3,Y3-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "c5e77009-7413-4d20-b59f-8536e39aefe4")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 44 "Net-(DX3,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "8c701776-552f-400a-b6ff-320f873eb020")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 44 "Net-(DX3,Y3-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "e0ac8d7a-2aa8-409b-977e-05de5b51d4fe")
 		)
 	)
@@ -32116,7 +34280,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "1ca0cc82-e571-4a75-bf27-d5f25863b124")
@@ -32163,6 +34327,9 @@
 				)
 			)
 		)
+		(path "/14e9ff7e-aa2a-4cfe-867e-3a02bd766073")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -33133,7 +35300,7 @@
 			(uuid "dedd55a3-9ec1-4329-857d-c8a452fd8bd2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "c442ae26-49b9-4042-a5f2-b2ad0d95d872")
 			(effects
@@ -33224,24 +35391,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 63 "unconnected-(SWX0,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "4011067b-c729-4137-8a67-2c3070078bbe")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 63 "unconnected-(SWX0,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "be8f66d6-69a2-455a-8ded-2b40f7f0365a")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 5 "Net-(DX0,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "57b04ea2-1f46-48c1-993f-9e167e93a6f9")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 5 "Net-(DX0,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "4d02415e-feb9-4d43-8a76-58a48b4d8cc1")
 		)
 	)
@@ -33262,7 +35441,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "be3504a7-1ce3-40fe-89f4-019c23078dac")
@@ -33309,6 +35488,9 @@
 				)
 			)
 		)
+		(path "/d2d2aa70-59bb-43ae-8f37-d29ecfe1f3c7")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -34279,7 +36461,7 @@
 			(uuid "65c67b9b-d490-44b2-b015-e868abca7c93")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "231c67fa-62ad-495e-bafe-65694db26045")
 			(effects
@@ -34370,24 +36552,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 68 "unconnected-(SWX1,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "3adfccae-6ae2-47e5-a8e7-3fbedbbd8eaa")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 68 "unconnected-(SWX1,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "6901ef98-380a-4e39-915a-c7552165326d")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 16 "Net-(DX1,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "75487b16-1b34-41cb-b26a-c854163a0754")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 16 "Net-(DX1,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "11a9b8a7-d60d-4a4a-ae53-07973b2e0994")
 		)
 	)
@@ -34397,7 +36591,7 @@
 		(at 135.23 132.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D10"
+		(property "Reference" "DX1,Y2"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "4b478026-266a-4ffa-a149-413bf03ec963")
@@ -34408,7 +36602,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "096d77fe-8ebe-4ac4-8b2d-b568c6e9cf63")
@@ -34458,6 +36652,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "643c3d35-84f3-4c63-9bf9-c2dcb788ced8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/94be6833-ad7b-469f-a259-b5f69eb175e6")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -34655,6 +36866,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 17 "unconnected-(DX1,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "6f52ab52-2e62-4c4a-86b1-20a9ebcb37d0")
 		)
 		(pad "1" smd roundrect
@@ -34662,6 +36876,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 17 "unconnected-(DX1,Y2-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "12f7d04f-474b-4251-ae28-155a8737294d")
 		)
 		(pad "2" smd roundrect
@@ -34669,6 +36886,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 18 "Net-(DX1,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "25c86389-bd41-42a9-bb02-c0c9038b73fc")
 		)
 		(pad "2" smd roundrect
@@ -34676,6 +36896,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 18 "Net-(DX1,Y2-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "1ef6eef1-22a3-40c9-a245-f338d66cf0ef")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -34707,7 +36930,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "245d7386-0a08-4d35-b568-acc26cc79040")
@@ -34754,6 +36977,9 @@
 				)
 			)
 		)
+		(path "/ecb2834c-66da-49be-9586-3291fb12f6cc")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -35724,7 +37950,7 @@
 			(uuid "c87067c7-a709-4931-8e7a-4bb360ae5d07")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "148f9694-5899-4e51-aec2-ee43ac4f01c6")
 			(effects
@@ -35815,24 +38041,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 90 "unconnected-(SWX4,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "d0cf8f35-20c9-406e-be63-db6a2da3bb71")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 90 "unconnected-(SWX4,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "793e9d08-7316-4a61-91d8-1a2974a50398")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 60 "Net-(DX4,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "c54866ce-e903-4b9a-83cf-b16b5e28e449")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 60 "Net-(DX4,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "ef29df8c-659e-4ff6-af51-7cd16953ad5a")
 		)
 	)
@@ -35842,7 +38080,7 @@
 		(at 99.23 120.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D2"
+		(property "Reference" "DX2,Y0"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "891e6133-6154-45e8-a8ec-09f8dc86416e")
@@ -35853,7 +38091,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "1000451e-b87c-4f87-a95f-4e6baa309be3")
@@ -35903,6 +38141,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "33194c2e-fc8f-4894-a5a6-dfad86ca06d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/2e4bbc25-870b-486c-911d-cfde63736579")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -36100,6 +38355,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 25 "unconnected-(DX2,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "723b1801-b694-4d67-8f29-10dd67f9ec3a")
 		)
 		(pad "1" smd roundrect
@@ -36107,6 +38365,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 25 "unconnected-(DX2,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "80a2a741-df69-4518-a6e4-96f53e1d3521")
 		)
 		(pad "2" smd roundrect
@@ -36114,6 +38375,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 26 "Net-(DX2,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "a565d0b3-ff94-4248-a4f8-14649838c784")
 		)
 		(pad "2" smd roundrect
@@ -36121,6 +38385,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 26 "Net-(DX2,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "db5c06f2-d686-44b7-aa2d-9222df858693")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -36152,7 +38419,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "efb8283d-770e-44dd-bce7-2e840c9c0383")
@@ -36199,6 +38466,9 @@
 				)
 			)
 		)
+		(path "/d7d78af7-66ea-44d5-9c4b-c61589e09f88")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -37260,24 +39530,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 79 "unconnected-(SWX3,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "21a4c74e-bfe3-423f-94c8-8568a762fbc2")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 79 "unconnected-(SWX3,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "66ae7e2e-1f04-460a-830e-0c69cd96b0f2")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 38 "Net-(DX3,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "d43e2019-81fc-44fd-859f-913f2c77778a")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 38 "Net-(DX3,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "19da26ee-7a36-4b57-9bc9-9107759baecf")
 		)
 	)
@@ -37287,7 +39569,7 @@
 		(at 189.23 117.62)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D25"
+		(property "Reference" "DX2,Y5"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "89d48a3a-2dde-4788-843f-82c06a396b25")
@@ -37298,7 +39580,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "3ebcb4c0-26c4-4606-b4b3-b03dad2e1a1c")
@@ -37348,6 +39630,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df2e12ad-ff45-4dd7-9c2e-741fd39f610e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/5d3f0ae0-4a7f-4405-9405-6456e07c4417")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -37545,6 +39844,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 36 "unconnected-(DX2,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "8ab4b670-3f00-4a74-9b6c-0cdc2ad49af5")
 		)
 		(pad "1" smd roundrect
@@ -37552,6 +39854,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 36 "unconnected-(DX2,Y5-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "98c6e32e-378e-45e5-9d02-15eadd6acdb1")
 		)
 		(pad "2" smd roundrect
@@ -37559,6 +39864,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 35 "Net-(DX2,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "8e7ddbf8-f462-499e-89ae-af5341e4ee51")
 		)
 		(pad "2" smd roundrect
@@ -37566,6 +39874,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 35 "Net-(DX2,Y5-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "4a811a64-b867-4452-94c2-01e66b4d18d2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -37586,7 +39897,7 @@
 		(at 117.23 120.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D6"
+		(property "Reference" "DX2,Y1"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "8d428690-1eb0-4d1c-8b47-eed491d982b8")
@@ -37597,7 +39908,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "62d3bbbb-fc7a-46c5-b753-db8cbc805b88")
@@ -37647,6 +39958,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ddcbcb23-8728-4e02-82be-6f2079aad306")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/f6f4204a-8f78-4b6a-bc61-28286c49479a")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -37844,6 +40172,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 27 "unconnected-(DX2,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "a0a25e8d-5947-46ca-ac18-95d4d99e7b18")
 		)
 		(pad "1" smd roundrect
@@ -37851,6 +40182,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 27 "unconnected-(DX2,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "a4748694-e508-4213-a8ef-3dfc09ff1efb")
 		)
 		(pad "2" smd roundrect
@@ -37858,6 +40192,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 28 "Net-(DX2,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "a5c4bea8-57a7-4cb5-b912-a5fb4c0f980b")
 		)
 		(pad "2" smd roundrect
@@ -37865,6 +40202,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 28 "Net-(DX2,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ae6dbd52-2aff-40f5-8d06-8ca6ac38366c")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -37896,7 +40236,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "ecb31b5a-574d-443b-a532-4c4e36095266")
@@ -37943,6 +40283,9 @@
 				)
 			)
 		)
+		(path "/05515767-afa4-488d-9d74-18544127eb61")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -38913,7 +41256,7 @@
 			(uuid "f1a4f560-7fb9-4798-8229-7e2cd694d79f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "7b960160-a638-46ed-8c2a-ab5f85e3d180")
 			(effects
@@ -39004,24 +41347,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 86 "unconnected-(SWX4,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "7337cc0a-a09a-438b-aa0e-ec251c6fa288")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 86 "unconnected-(SWX4,Y1-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "268f1476-8efb-4598-be57-e1455f9cdfa6")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 52 "Net-(DX4,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "461d0553-b08a-47f7-b253-3c7f1551b1a8")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 52 "Net-(DX4,Y1-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "2b648df1-9a26-4349-b92b-861eae963102")
 		)
 	)
@@ -39031,7 +41386,7 @@
 		(at 135.23 149.12)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D9"
+		(property "Reference" "DX0,Y0"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "17d1197f-c45c-4083-bb07-2d20eb0a3283")
@@ -39042,7 +41397,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "a69900ba-b171-41c5-b779-f33536895d16")
@@ -39092,6 +41447,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "12f11fd8-a046-4992-b2ea-40f36d07bd28")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/6a75e6fd-00b5-4d83-8e00-9f0aaf187a3f")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -39289,6 +41661,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 2 "unconnected-(DX0,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "2f7e7743-ad46-4f2b-a056-f2d384825b09")
 		)
 		(pad "1" smd roundrect
@@ -39296,6 +41671,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 2 "unconnected-(DX0,Y0-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "517633d1-f5d4-478f-b4e6-d1fbe5ea5efc")
 		)
 		(pad "2" smd roundrect
@@ -39303,6 +41681,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 1 "Net-(DX0,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "2770389b-ae72-4ef7-99f4-f23727826f56")
 		)
 		(pad "2" smd roundrect
@@ -39310,6 +41691,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 1 "Net-(DX0,Y0-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "46cd085a-15fb-4cae-9430-346a02c3db3e")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -39341,7 +41725,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "ff63477e-494b-4645-90c5-0de4487fd8e8")
@@ -39388,6 +41772,9 @@
 				)
 			)
 		)
+		(path "/e22ef03f-e403-41b6-a39b-923329da0983")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -40358,7 +42745,7 @@
 			(uuid "151fe224-c63b-4cd0-bb6f-9ebf2ce98d00")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "f9ef2fbd-91db-4faf-a998-9de12bc2d2c3")
 			(effects
@@ -40449,24 +42836,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 84 "unconnected-(SWX3,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "49dc5ed3-3170-4e6d-9bee-579f1241d974")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 84 "unconnected-(SWX3,Y5-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "6764c4b1-0d4d-4974-9be1-3c3c732a432e")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 48 "Net-(DX3,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "3c6bcb1c-1476-48eb-bdeb-5f07f751c9c3")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 48 "Net-(DX3,Y5-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "f8e8ae0c-9506-44a1-a2aa-a7f6e776b074")
 		)
 	)
@@ -40476,7 +42875,7 @@
 		(at 153.23 112.62)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D16"
+		(property "Reference" "DX2,Y3"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "fe7b5b0e-6d78-4f2b-8397-9bcc267b75c1")
@@ -40487,7 +42886,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "3a8b3c99-778a-4957-90dc-cc4c839c8dba")
@@ -40537,6 +42936,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "036970be-ff09-44c0-a023-2cbfc98caeba")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/1446a60a-2f46-491f-a772-69ecf40991b0")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -40734,6 +43150,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 32 "unconnected-(DX2,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "b8aa09e1-9639-455a-ad91-b05b44bd7e38")
 		)
 		(pad "1" smd roundrect
@@ -40741,6 +43160,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 32 "unconnected-(DX2,Y3-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "337ffbe7-40c1-48a5-b9fb-3d8a94fdae97")
 		)
 		(pad "2" smd roundrect
@@ -40748,6 +43170,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 31 "Net-(DX2,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "5270f889-1519-41fd-99fd-4807cbf41fa9")
 		)
 		(pad "2" smd roundrect
@@ -40755,6 +43180,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 31 "Net-(DX2,Y3-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "05b166e1-8143-4393-bf1f-35e67d6d670c")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -40786,8 +43214,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 8.255 -0)
+		(property "Value" "~"
+			(at 0 8.255 0)
 			(layer "B.Fab")
 			(uuid "4cd44941-60e3-42b3-a74c-858d001f1fde")
 			(effects
@@ -40834,6 +43262,9 @@
 				)
 			)
 		)
+		(path "/ded7c7c4-1549-429e-a17a-afe4a1232c9e")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -41804,7 +44235,7 @@
 			(uuid "24ed1b08-5728-4cb4-aab0-2345005a8550")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "d5770a84-6398-4138-ba6b-21028141803c")
 			(effects
@@ -41838,7 +44269,7 @@
 			)
 		)
 		(fp_text user "${VALUE}"
-			(at 0 8.255 -0)
+			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "507c7f80-c089-4ad3-99b4-f2d47eb28eb0")
 			(effects
@@ -41894,24 +44325,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 73 "unconnected-(SWX2,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "2ae41e27-6b71-4280-a9a1-aa14e90cd011")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 73 "unconnected-(SWX2,Y0-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "737d625a-241d-45b4-baf5-f0bbb02cd481")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 26 "Net-(DX2,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "bd35ee66-d4d3-479d-894b-a2d49de75aef")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 26 "Net-(DX2,Y0-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "a7a3357f-d51f-43af-8c24-7c725c63415a")
 		)
 	)
@@ -41932,7 +44375,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "35773ca2-6588-4454-8ad0-8e10dfd74c88")
@@ -41982,6 +44425,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "eebb6581-f85d-44fe-91f3-c92cc969a657")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/cb6bcc5f-27a7-416f-a623-1982ef4167f9")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -42179,6 +44639,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 57 "unconnected-(DX4,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "670e0265-b475-45a0-b06d-2ba4e28dec89")
 		)
 		(pad "1" smd roundrect
@@ -42186,6 +44649,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 57 "unconnected-(DX4,Y4-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "0df51be4-559a-4ad4-8a1a-0db089272137")
 		)
 		(pad "2" smd roundrect
@@ -42193,6 +44659,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 58 "Net-(DX4,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ee09d56a-235c-4df0-93e3-cbb370a607b1")
 		)
 		(pad "2" smd roundrect
@@ -42200,6 +44669,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 58 "Net-(DX4,Y4-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ab1eec3e-5f3e-45ba-b5b3-e1a2f90986f9")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -42220,7 +44692,7 @@
 		(at 153.23 146.62)
 		(descr "SOD-123")
 		(tags "SOD-123")
-		(property "Reference" "D14"
+		(property "Reference" "DX0,Y1"
 			(at 0 -2 0)
 			(layer "F.SilkS")
 			(uuid "405569c9-27c2-4756-abd6-9df6aff3a62d")
@@ -42231,7 +44703,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 2.1 0)
 			(layer "F.Fab")
 			(uuid "5a7134f4-39a7-4915-8184-daa91c0d6378")
@@ -42281,6 +44753,23 @@
 				)
 			)
 		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e91419e0-7ffe-4566-bf74-b2393945264b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/a0f0fc7d-13ba-4dff-aa30-919e9387f145")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -2.36 -1)
@@ -42478,6 +44967,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 4 "unconnected-(DX0,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "bf70eb78-f920-4f79-9617-a449a4f3671c")
 		)
 		(pad "1" smd roundrect
@@ -42485,6 +44977,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 4 "unconnected-(DX0,Y1-K-Pad1)")
+			(pinfunction "K")
+			(pintype "passive")
 			(uuid "8126be33-0c24-4977-a797-71eabb0960c8")
 		)
 		(pad "2" smd roundrect
@@ -42492,6 +44987,9 @@
 			(size 0.9 1.2)
 			(layers "B.Cu" "B.Paste" "B.Mask")
 			(roundrect_rratio 0.25)
+			(net 3 "Net-(DX0,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "162a384a-3e19-4e44-982a-5a118560fd88")
 		)
 		(pad "2" smd roundrect
@@ -42499,6 +44997,9 @@
 			(size 0.9 1.2)
 			(layers "F.Cu" "F.Paste" "F.Mask")
 			(roundrect_rratio 0.25)
+			(net 3 "Net-(DX0,Y1-A)")
+			(pinfunction "A")
+			(pintype "passive")
 			(uuid "ed3411b5-a029-4da6-9bfc-e40a7f79b3ce")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.wrl"
@@ -42530,7 +45031,7 @@
 				)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "~"
 			(at 0 8.255 0)
 			(layer "F.Fab")
 			(uuid "8bbb750d-4046-4e66-98a5-be9f086c28a2")
@@ -42577,6 +45078,9 @@
 				)
 			)
 		)
+		(path "/9c93e694-3d7c-4794-9271-12ff8af78f25")
+		(sheetname "Root")
+		(sheetfile "Split V2.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -7 -7)
@@ -43547,7 +46051,7 @@
 			(uuid "039dc42f-8e35-4c30-84fa-7ad68c514e09")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -8.89 -0)
+			(at 0 -8.89 0)
 			(layer "F.SilkS")
 			(uuid "1081e08a-c0a4-4bcf-9ee0-cd3544d1956f")
 			(effects
@@ -43638,24 +46142,36 @@
 			(at -3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 87 "unconnected-(SWX4,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "df1f15df-a98a-4f9d-b068-1456aeb6dade")
 		)
 		(pad "1" smd rect
 			(at 3.275 -5.95)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 87 "unconnected-(SWX4,Y2-Pad1)")
+			(pinfunction "1")
+			(pintype "passive")
 			(uuid "d7c7d723-e0ea-44e4-b7dc-de4c6e0f48c1")
 		)
 		(pad "2" smd rect
 			(at -8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "F.Cu" "F.Paste" "F.Mask")
+			(net 53 "Net-(DX4,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "71302568-37ff-47e0-be6c-8eeb7022ed46")
 		)
 		(pad "2" smd rect
 			(at 8.275 -3.75)
 			(size 2.6 2.6)
 			(layers "B.Cu" "B.Paste" "B.Mask")
+			(net 53 "Net-(DX4,Y2-A)")
+			(pinfunction "2")
+			(pintype "passive")
 			(uuid "41c40740-8b7d-4b31-b115-94844abc5650")
 		)
 	)
