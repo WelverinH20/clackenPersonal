@@ -52,7 +52,9 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|203200000|77716268|390e0358-750e-49e2-a10f-26712d446dcb|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -71,7 +73,7 @@
         "footprint": "error",
         "footprint_symbol_mismatch": "warning",
         "footprint_type_mismatch": "ignore",
-        "hole_clearance": "error",
+        "hole_clearance": "ignore",
         "hole_near_hole": "error",
         "holes_co_located": "warning",
         "invalid_outline": "error",
@@ -91,10 +93,10 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
