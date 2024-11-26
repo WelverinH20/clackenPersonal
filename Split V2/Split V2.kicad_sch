@@ -2092,6 +2092,7 @@
 	)
 	(label "Row0"
 		(at 76.2 115.57 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2102,6 +2103,7 @@
 	)
 	(label "Row2"
 		(at 76.2 90.17 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2112,6 +2114,7 @@
 	)
 	(label "Row2"
 		(at 93.98 90.17 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2122,6 +2125,7 @@
 	)
 	(label "Net-(DX0,Y4-A)"
 		(at 198.12 95.25 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2132,6 +2136,7 @@
 	)
 	(label "Row3"
 		(at 110.49 77.47 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2142,6 +2147,7 @@
 	)
 	(label "Row2"
 		(at 110.49 90.17 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2152,6 +2158,7 @@
 	)
 	(label "Col0"
 		(at 44.45 107.95 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2162,6 +2169,7 @@
 	)
 	(label "Row3"
 		(at 128.27 77.47 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2172,6 +2180,7 @@
 	)
 	(label "Net-(DX0,Y3-A)"
 		(at 181.61 95.25 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2182,6 +2191,7 @@
 	)
 	(label "Row3"
 		(at 93.98 77.47 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2192,6 +2202,7 @@
 	)
 	(label "Row2"
 		(at 128.27 90.17 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2202,6 +2213,7 @@
 	)
 	(label "Row0"
 		(at 76.2 115.57 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2212,6 +2224,7 @@
 	)
 	(label "Row4"
 		(at 93.98 64.77 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2222,6 +2235,7 @@
 	)
 	(label "Row3"
 		(at 54.61 77.47 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2232,6 +2246,7 @@
 	)
 	(label "Row4"
 		(at 76.2 64.77 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2242,6 +2257,7 @@
 	)
 	(label "Row0"
 		(at 110.49 115.57 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2252,6 +2268,7 @@
 	)
 	(label "Row2"
 		(at 54.61 90.17 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2262,6 +2279,7 @@
 	)
 	(label "Row4"
 		(at 110.49 64.77 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2272,6 +2290,7 @@
 	)
 	(label "Row0"
 		(at 93.98 115.57 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2282,6 +2301,7 @@
 	)
 	(label "Col0"
 		(at 44.45 82.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2292,6 +2312,7 @@
 	)
 	(label "Col0"
 		(at 44.45 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2302,6 +2323,7 @@
 	)
 	(label "Row0"
 		(at 128.27 115.57 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2312,6 +2334,7 @@
 	)
 	(label "Col0"
 		(at 44.45 95.25 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2322,6 +2345,7 @@
 	)
 	(label "Row4"
 		(at 54.61 64.77 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2332,6 +2356,7 @@
 	)
 	(label "Row3"
 		(at 76.2 77.47 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2342,6 +2367,7 @@
 	)
 	(label "Col0"
 		(at 44.45 69.85 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2352,6 +2378,7 @@
 	)
 	(label "Row4"
 		(at 128.27 64.77 270)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2646,6 +2673,28 @@
 			)
 		)
 	)
+	(global_label "SDA"
+		(shape input)
+		(at 240.03 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "55de6f85-1e9a-4199-922c-175beeec8879")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.4767 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "Col0"
 		(shape input)
 		(at 208.28 74.93 0)
@@ -2668,31 +2717,9 @@
 			)
 		)
 	)
-	(global_label "SCL"
-		(shape input)
-		(at 240.03 53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5f2e872a-ec28-4bae-bc8a-bc035a5ea68a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.5372 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VCC"
 		(shape input)
-		(at 231.14 74.93 180)
+		(at 240.03 62.23 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2702,7 +2729,7 @@
 		)
 		(uuid "7476828d-13a1-49f7-8fe8-9fa45cd2bbee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.5262 74.93 0)
+			(at 233.4162 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2734,7 +2761,7 @@
 			)
 		)
 	)
-	(global_label "SDA"
+	(global_label "Gnd"
 		(shape input)
 		(at 240.03 50.8 180)
 		(fields_autoplaced yes)
@@ -2744,9 +2771,9 @@
 			)
 			(justify right)
 		)
-		(uuid "7c261c5e-20cc-41ea-9279-8657ca550a9b")
+		(uuid "815445ec-7c65-46d1-98f5-cd00f1c3dd94")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.4767 50.8 0)
+			(at 233.4768 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2910,6 +2937,28 @@
 			)
 		)
 	)
+	(global_label "SCL"
+		(shape input)
+		(at 240.03 55.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b4acb6ac-7c82-4be4-b45b-345475c62044")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.5372 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VCC"
 		(shape input)
 		(at 208.28 62.23 0)
@@ -2934,7 +2983,7 @@
 	)
 	(global_label "B2"
 		(shape input)
-		(at 231.14 80.01 180)
+		(at 240.03 67.31 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2944,7 +2993,7 @@
 		)
 		(uuid "bf913226-af2c-4509-976c-2539afa203e1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.6753 80.01 0)
+			(at 234.5653 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3044,7 +3093,7 @@
 	)
 	(global_label "B3"
 		(shape input)
-		(at 231.14 77.47 180)
+		(at 240.03 64.77 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3054,7 +3103,7 @@
 		)
 		(uuid "cadb0b5c-8234-46ac-a4c7-431513e66f54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.6753 77.47 0)
+			(at 234.5653 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3088,7 +3137,7 @@
 	)
 	(global_label "Gnd"
 		(shape input)
-		(at 231.14 82.55 180)
+		(at 240.03 69.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3098,7 +3147,7 @@
 		)
 		(uuid "df31ff7c-4548-4ecf-97ba-875f7fcb694f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 224.5868 82.55 0)
+			(at 233.4768 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3170,28 +3219,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "Gnd"
-		(shape input)
-		(at 240.03 55.88 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f938ef82-6bf6-441d-9520-f04fe07c8e4f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.4768 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -3685,7 +3712,7 @@
 	)
 	(symbol
 		(lib_id "Arduino:Joystick")
-		(at 233.68 83.82 0)
+		(at 242.57 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3693,7 +3720,7 @@
 		(dnp no)
 		(uuid "1576a3b1-af8e-4a16-8484-60b41466384a")
 		(property "Reference" "Joystick1"
-			(at 234.2921 72.39 0)
+			(at 243.1821 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3702,7 +3729,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 245.11 80.01 0)
+			(at 254 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3711,7 +3738,7 @@
 			)
 		)
 		(property "Footprint" "arduino:joystick"
-			(at 233.68 83.82 0)
+			(at 242.57 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3720,7 +3747,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 233.68 83.82 0)
+			(at 242.57 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3729,7 +3756,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 233.68 83.82 0)
+			(at 242.57 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
