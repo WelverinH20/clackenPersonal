@@ -1,4 +1,4 @@
-24914685229095349
+23941052424000029
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54690,13 +54690,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-Custom
-D_SOD-123_bothside
-SOD-123
-SOD-123
-0
-4
-2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -56699,321 +56692,272 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-Espressif
-ESP32-C3-DevKitC-02
-
-
+Displays
+AG12864E
+STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
+AG12864E Graphics Display 128x64 Ampire
 0
-30
-30
-Espressif
-ESP32-C3-DevKitM-1
-
-
+24
+20
+Displays
+Adafruit_SSD1306
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
 0
-30
-30
-Espressif
-ESP32-C3-MINI-1
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
+8
+8
+Displays
+Adafruit_SSD1306_No_Mounting_Holes
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
 0
-61
-53
-Espressif
-ESP32-C3-MINI-1U
-ESP32-C3-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
+8
+8
+Displays
+CR2013-MI2120
+CR2013-MI2120 ILI9341 LCD Breakout http://pan.baidu.com/s/11Y990
+CR2013-MI2120 ILI9341 LCD Breakout
 0
-61
-53
-Espressif
-ESP32-C3-MINI-1_HandSoldering
-ESP32-C3-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c3-mini-1_datasheet_en.pdf
-ESP32-C3
-0
-61
-53
-Espressif
-ESP32-C3-WROOM-02
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-Espressif
-ESP32-C3-WROOM-02U
-ESP32-C3-WROOM-02: https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf
-ESP32-C3
-0
-27
-19
-Espressif
-ESP32-C6-DevKitC-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
+18
+14
+Displays
+EA-eDIP128B-XXX
+LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip128-6e.pdf
+LCD-graphical display with LED backlight 128x64 RS-232 I2C or SPI
 0
 32
 32
-Espressif
-ESP32-C6-DevKitM-1
-ESP32-C6 general-purpose development board, based on ESP32-2-WROOM-1,It has all the ESP32-C6 pins exposed and is easy to connect and use.
-ESP32-C6
+Displays
+EA_DOGL128-6
+Graphical,Display,LCD,128x64 https://www.lcd-module.com/eng/pdf/grafik/dogl128-6e.pdf
+EA DOGL128
 0
-30
-30
-Espressif
-ESP32-C6-MINI-1
-ESP32-C6-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
+26
+26
+Displays
+EA_DOGM128-6
+Graphical,Display,LCD,128x64 https://www.lcd-module.de/eng/pdf/grafik/dogm128e.pdf
+EA DOGM128-6
 0
-61
-53
-Espressif
-ESP32-C6-MINI-1U
-ESP32-C6-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-mini-1_datasheet_en.pdf
-ESP32-C6
+26
+26
+Displays
+EA_DOGS104X-A
+LCD 4x10 character 3.3V VDD I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/doma/dogs104e.pdf
+LCD 4x10 character 3.3V VDD I2C or SPI
 0
-61
-53
-Espressif
-ESP32-C6-WROOM-1
-ESP32-C6-WROOM-1: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_datasheet_en.pdf
-esp32-c6
+14
+14
+Displays
+EA_DOGXL160-7
+Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
+EA_DOGXL160-7
 0
-37
-29
-Espressif
-ESP32-C6-WROOM-1U
-ESP32-C6-WROOM-1U: https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf
-esp32-c6
-0
-37
-29
-Espressif
-ESP32-DevKitC
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-38
-38
-Espressif
-ESP32-DevKitM-1
-ESP32-DevKitC: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/hw-reference/esp32/get-started-devkitc.html
-ESP32
-0
-34
-34
-Espressif
-ESP32-H2-MINI-1
-ESP32-H2-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-h2-mini-1_mini-1u_datasheet_en.pdf
-ESP32-H2
-0
-61
-53
-Espressif
-ESP32-MINI-1
-ESP32-MINI-1: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1
-0
-63
-55
-Espressif
-ESP32-MINI-1U
-ESP32-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-mini-1_datasheet_en.pdf
-ESP32-MINI-1U
-0
-63
-55
-Espressif
-ESP32-P4
-
-
-0
-113
-105
-Espressif
-ESP32-PICO-MINI-02
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-Espressif
-ESP32-PICO-MINI-02U
-ESP32-PICO-MINI-02U: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02U
-0
-61
-53
-Espressif
-ESP32-PICO-MINI-02_HandSoldering
-ESP32-PICO-MINI-02: https://www.espressif.com/sites/default/files/documentation/esp32-pico-mini-02_datasheet_en.pdf
-ESP32-PICO-MINI-02
-0
-61
-53
-Espressif
-ESP32-S2-DevKitC-1
-ESP32-S2 general-purpose development board, based on ESP32-S2-SOLO or ESP32-S2-SOLO-U,It has all the ESP32-S2 pins exposed and is easy to connect and use.
-ESP32-S2
-0
-44
-44
-Espressif
-ESP32-S2-DevKitM
-ESP32-S2 general-purpose development board
-ESP32-S2
-0
-42
-42
-Espressif
-ESP32-S2-MINI-1
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-Espressif
-ESP32-S2-MINI-1U
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2
-0
-73
-65
-Espressif
-ESP32-S2-MINI-1_HandSoldering
-ESP32-S2-MINI-1 and ESP32-S2-MINI-1U: https://www.espressif.com/sites/default/files/documentation/esp32-s2-mini-1_esp32-s2-mini-1u_datasheet_en.pdf
-ESP32-S2 Hand Soldering
-0
-73
-65
-Espressif
-ESP32-S2-SOLO
-ESP32-S2-SOLO https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-Espressif
-ESP32-S2-SOLO-2U
-ESP32-S2-SOLO-2U https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo-2_esp32-s2-solo-2u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-Espressif
-ESP32-S2-Saola-1
-Espressif ESP32-S2-Saola-1 Development Kit: https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-saola-1-v1.2.html
-esp32-s2 devkit
-0
-42
-42
-Espressif
-ESP32-S2-WROOM
-ESP32-S2-WROOM and ESP32-S2-WROOM-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wroom_esp32-s2-wroom-i_datasheet_en.pdf
-ESP32-S2
-0
-51
-43
-Espressif
-ESP32-S2-WROVER
-ESP32-S2-WROVER and ESP32-S2-WROVER-I: https://www.espressif.com/sites/default/files/documentation/esp32-s2-wrover_esp32-s2-wrover-i_datasheet_en.pdf
-ESP32-S2
-0
-55
-43
-Espressif
-ESP32-S3-DevKitC
-ESP32-S3 general-purpose development board, based on ESP32-S3-WROOM-1 or ESP32-S3-WROOM-1U,It has all the ESP32-S3 pins exposed and is easy to connect and use.
-ESP32-S3
-0
-44
-44
-Espressif
-ESP32-S3-MINI-1
-ESP32-S3-MINI-1
-esp32-s3
-0
-73
-65
-Espressif
-ESP32-S3-MINI-1U
-ESP32-S3-MINI-1 and ESP32-S3-MINI-1U
-esp32-s3
-0
-73
-65
-Espressif
-ESP32-S3-WROOM-1
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-Espressif
-ESP32-S3-WROOM-1U
-ESP32-S3-WROOM-1 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-49
-41
-Espressif
-ESP32-S3-WROOM-2
-ESP32-S3-WROOM-2 is a powerful, generic Wi-Fi + Bluetooth LE MCU modules that have Dual core CPU , a rich set of peripherals, provides acceleration for neural network computing and signal processing workloads. They are an ideal choice for a wide variety of application scenarios related to AI + Internet of Things (AIoT), such as wake word detection and speech commands recognition , face detection and recognition, smart home, smart appliance, smart control panel, smart speaker etc.
-esp32-s3
-0
-51
-41
-Espressif
-ESP32-WROOM-32E
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-50
-39
-Espressif
-ESP32-WROOM-32UE
-ESP32-WROOM-32E and ESP32-WROOM-32UE: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-ESP32
-0
-47
-39
-Espressif
-ESP32-WROOM-DA
-ESP32-WROOM-DA: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-da_datasheet_en.pdf
-ESP32 Dual Antenna DA
-0
-49
-41
-Espressif
-ESP32-WROVER-E
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module
-0
-47
-39
-Espressif
-ESP32-WROVER-E_ThermalVias
-ESP32-WROVER-E: https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
-esp32 module thermal vias
-0
-59
-39
-Espressif
-ESP8685-WROOM-06
-ESP32-WROOM-06: https://www.espressif.com/sites/default/files/documentation/esp8685-wroom-06_datasheet_en.pdf
-esp32 module
-0
-31
 22
-Espressif
-QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm
-QFN, 32 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-8153-8-and-16-bit-avr-microcontroller-xmega-e-atxmega8e5-atxmega16e5-atxmega32e5_datasheet.pdf#page=70), generated with kicad-footprint-generator ipc_noLead_generator.py
-QFN NoLead
+22
+Displays
+EA_DOGXL160-7_Backlight
+Grapchical,Display,LCD,160x104 http://www.lcd-module.com/eng/pdf/grafik/dogxl160-7e.pdf
+EA_DOGXL160-7_Backlight
 0
-37
-33
+22
+22
+Displays
+EA_T123X-I2C
+http://www.lcd-module.de/pdf/doma/t123-i2c.pdf
+3 Line 12 character wide alpha numeric LCD
+0
+6
+6
+Displays
+EA_eDIP160-XXX
+LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip160-7e.pdf
+LCD-graphical display with LED backlight 160x104 RS-232 I2C or SPI
+0
+40
+40
+Displays
+EA_eDIP240-XXX
+LCD graphical display LED backlight 240x128 http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip240-7e.pdf
+LCD graphical display LED backlight 240x128
+0
+40
+40
+Displays
+EA_eDIP320X-XXX
+LCD display 320x340 RS-232 I2C or SPI http://www.lcd-module.com/fileadmin/eng/pdf/grafik/edip320-8e.pdf
+LCD display 320x340 RS-232 I2C or SPI
+0
+48
+48
+Displays
+EA_eDIPTFT32-XXX
+TFT-graphic display 320x240 16 bit colour with led backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft32-ae.pdf
+TFT-graphic display 320x240 16 bit colour with led backlight
+0
+40
+40
+Displays
+EA_eDIPTFT43-ATC
+http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
+TFT graphical display 480x272 16-bit colour with LED backlight
+0
+40
+40
+Displays
+EA_eDIPTFT43-XXX
+TFT graphical display 480x272 16-bit colour with LED backlight http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft43-ae.pdf
+TFT graphical display 480x272 16-bit colour with LED backlight
+0
+40
+40
+Displays
+EA_eDIPTFT57-XXX
+http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft57-ae.pdf
+TFT-graphic display 640x480 16 bit colour
+0
+48
+48
+Displays
+EA_eDIPTFT70-ATC
+TFT-graphical display 800x480 16-bit colours with capacitive touch panel http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
+TFT-graphical display 800x480 16-bit colours with capacitive touch panel
+0
+48
+48
+Displays
+EA_eDIPTFT70-XXX
+TFT-graphical display 800x480 16-bit colours http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
+TFT-graphical display 800x480 16-bit colours and touch display
+0
+48
+48
+Displays
+ERM19264
+STN/FSTN LCD 192x64 dot https://www.buydisplay.com/download/manual/ERM19264-1_Series_Datasheet.pdf
+ERM19264 Graphics Display 192x64
+0
+20
+20
+Displays
+HDSM-441B_HDSM-443B
+2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
+2 Digit 7 segment blue LED
+0
+10
+10
+Displays
+HDSM-541B_HDSM-543B
+2 digit 7 segement blue LED with right hand decimal, https://docs.broadcom.com/docs/AV02-1588EN
+2 digit 7 segement blue LED with right hand decimal
+0
+10
+10
+Displays
+HDSP-48xx
+10-Element Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Bar Graph Array
+0
+20
+20
+Displays
+HDSP-4830
+10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Bar Graph Array
+0
+20
+20
+Displays
+HDSP-4832
+10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Yellow Green Bar Graph Array
+0
+20
+20
+Displays
+HDSP-4836
+10-Element Red Yellow Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Yellow Green Bar Graph Array
+0
+20
+20
+Displays
+HDSP-4840
+10-Element Yellow Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Yellow Bar Graph Array
+0
+20
+20
+Displays
+HDSP-4850
+10-Element Green Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Green Bar Graph Array
+0
+20
+20
+Displays
+HLCP-J100
+10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Bar Graph Array
+0
+20
+20
+Displays
+HY1602E
+http://www.icbank.com/data/ICBShop/board/HY1602E.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
+Displays
+LCD-016N002L
+16 x 2 Character LCD, http://www.vishay.com/product?docid=37299
+LCD-016N002L 16 x 2 Character LCD
+0
+24
+20
+Displays
+LM16255
+LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
+LCD 12x2
+0
+14
+14
+Displays
+NHD-0420H1Z
+NHD-0420H1Z LCD http://www.newhavendisplay.com/specs/NHD-0420H1Z-FSW-GBW-33V3.pdf
+NHD-0420H1Z LCD
+0
+16
+16
+Displays
+NHD-C0220BiZ
+NHD-C0220BiZ LCD http://www.newhavendisplay.com/specs/NHD-C0220BiZ-FSW-FBW-3V3M.pdf
+NHD-C0220BiZ LCD
+0
+10
+10
+Displays
+OLED-128O064D
+128x64 OLED display
+display oled
+0
+30
+30
+Displays
+RC1602A
+http://www.raystar-optronics.com/down.php?ProID=18
+LCD 16x2 Alphanumeric 16pin
+0
+22
+18
+Displays
+WC1602A
+LCD 16x2 http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+LCD 16x2 Alphanumeric 16pin
+0
+20
+16
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -63818,1119 +63762,139 @@ solder jumper open
 0
 5
 3
-Keebio-Parts.pretty-master
-3_Pin_Jumper
-
-
-0
-9
-3
-Keebio-Parts.pretty-master
-4pin35mmAudio
-
-
-0
-6
-6
-Keebio-Parts.pretty-master
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
+Keys pretty
+Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
 2
 2
-Keebio-Parts.pretty-master
-AT90USB1286_TQFP_14mm
-64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-64
-64
-Keebio-Parts.pretty-master
-ATMEGA32U4-AU
-
-
-0
-44
-44
-Keebio-Parts.pretty-master
-ArduinoProMicro
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-ArduinoProMicro-Mini-USB
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-ArduinoProMicro-Mini-USB-No-Text
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-ArduinoProMicro-Mini-USB-ZigZag
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-ArduinoProMicro-TopSide
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-ArduinoProMicro-ZigZag
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-CUI_SJ-43614-SMT
-
-
+Keys pretty
+Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
-4
-Keebio-Parts.pretty-master
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
-0
 2
-2
-Keebio-Parts.pretty-master
-C_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Keebio-Parts.pretty-master
-Cherry-MX-Low-Profile
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Crystal_SMD_2520-4pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
+Keys pretty
+Kailh_socket_MX_optional_platemount
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
-4
-Keebio-Parts.pretty-master
-Crystal_SMD_3225-4pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-Keebio-Parts.pretty-master
-D_0805
-
-
-0
 2
-2
-Keebio-Parts.pretty-master
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-Keebio-Parts.pretty-master
-D_SOD123
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-D_SOD123F
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Diode
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Diode-Hybrid-Back
-
-
-0
-6
-2
-Keebio-Parts.pretty-master
-Diode-dual
-
-
-0
-10
-2
-Keebio-Parts.pretty-master
-Diode-hybrid-3pad
-
-
-0
-6
-2
-Keebio-Parts.pretty-master
-Diode_Long
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Elite-C
-
-
-0
-29
-29
-Keebio-Parts.pretty-master
-Elite-C-ZigZag
-
-
-0
-29
-29
-Keebio-Parts.pretty-master
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-Keebio-Parts.pretty-master
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-Keebio-Parts.pretty-master
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-Keebio-Parts.pretty-master
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-Keebio-Parts.pretty-master
-Epson_TSX-3225
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Fuse_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Keebio-Parts.pretty-master
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Keebio-Parts.pretty-master
-Header-6-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts.pretty-master
-Header-12-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Keebio-Parts.pretty-master
-Header-12-Pin-ZigZag-Square
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Keebio-Parts.pretty-master
-I2C_Breakout
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-Keebio-Parts.pretty-master
-ICSP-Header
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts.pretty-master
-ICSP-Header-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts.pretty-master
-ICSP_1.27mm
-Through hole straight pin header, 2x03, 1.27mm pitch, double rows
-Through hole pin header THT 2x03 1.27mm double row
-0
-6
-6
-Keebio-Parts.pretty-master
-JUMPER_SMD_2DUB
-
-
-0
-12
-2
-Keebio-Parts.pretty-master
-KLJ-1102
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1.25u-LED-flip
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1u
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1u-No-Clickhole
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1u-NoLED
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Kailh-PG1350-1u-reversible
-
-
-0
-5
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1u-reversible-No-Clickhole
-
-
-0
-5
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-1u-reversible-flip
-
-
-0
-5
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-2.5u
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-2u
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-Kailh-PG1350-2u-NoLED
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Kailh-PG1350-2u-Vert-NoLED
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-LED_3mm
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-LQFP-48_7x7mm_Pitch0.5mm
-48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Keebio-Parts.pretty-master
-Low-Profile-Choc-MX
-
-
-0
-5
-4
-Keebio-Parts.pretty-master
-MD_Diode
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-MX-Alps-Choc-1U
-
-
-0
-8
-4
-Keebio-Parts.pretty-master
-MX-Alps-Choc-1U-No-Clickhole
-
-
-0
-8
-4
-Keebio-Parts.pretty-master
-MX-Alps-Choc-1U-NoLED
-
-
-0
-6
-2
-Keebio-Parts.pretty-master
-MX-Alps-Choc-1U-NoLED-Alt
-
-
-0
-6
-2
-Keebio-Parts.pretty-master
-MX-Alps-Choc-2U
-
-
-0
-8
-4
-Keebio-Parts.pretty-master
-MX-Alps-Choc-2U-StabFlip
-
-
-0
-8
-4
-Keebio-Parts.pretty-master
-MX-Alps_DMask
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX-Alps_FMask
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX-Alps_FMask-2u
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX-Alps_Switch_Cutout
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX-Alps_Switch_Cutout-1u_1.25u
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-MX-Alps_Switch_Cutout-1u_2u
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX-Alps_Switch_Cutout-3u-wide
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-MX-Quad
-MX/Alps footprint
-
+Keys pretty
+Kailh_socket_MX_optional_reversible
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
 8
 2
-Keebio-Parts.pretty-master
-MX_FMask
-
-
+Keys pretty
+Kailh_socket_MX_optional_reversible_platemount
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
 0
+8
 2
-1
-Keebio-Parts.pretty-master
-MX_FMask-2u
-
-
-0
-3
-1
-Keebio-Parts.pretty-master
-MX_FMask-2u-with-cutout
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX_FMask-with-cutout
-
-
-0
-2
-1
-Keebio-Parts.pretty-master
-MX_LED
-
-
+Keys pretty
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
 2
 2
-Keebio-Parts.pretty-master
-MX_Stabilizer_Cutout
-
-
+Keys pretty
+Kailh_socket_MX_reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
+4
+2
+Keys pretty
+Kailh_socket_MX_reversible_platemount
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
+4
+2
+Keys pretty
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
 0
-Keebio-Parts.pretty-master
-MX_Stabilizer_Cutout-2u
-
-
+2
+2
+Keys pretty
+Kailh_socket_PG1350_optional
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
 0
-0
-0
-Keebio-Parts.pretty-master
-MX_Switch_Cutout
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-MX_Switch_Mod_Cutout
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-Mini-USB
-
-
+4
+2
+Keys pretty
+Kailh_socket_PG1350_optional_reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
 0
 7
-6
-Keebio-Parts.pretty-master
-MountingHole
-
-
-0
-1
-0
-Keebio-Parts.pretty-master
-NovelKeys_Kailh_Big_Series_Switch
-
-
-0
 2
-2
-Keebio-Parts.pretty-master
-Pin_Header_Straight_2x03_Pitch1.00mm
-Through hole straight pin header, 2x03, 1.00mm pitch, double rows
-Through hole pin header THT 2x03 1.00mm double row
-0
-6
-6
-Keebio-Parts.pretty-master
-QFN-44-1EP_7x7mm_Pitch0.5mm
-UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
-QFN 0.5
-0
-60
-45
-Keebio-Parts.pretty-master
-RGB-6028
-
-
+Keys pretty
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
 0
 4
-4
-Keebio-Parts.pretty-master
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
+2
+Keys pretty
+SW_MX
+MX-style keyswitch
+MX,cherry,gateron,kailh
 0
-4
-4
-Keebio-Parts.pretty-master
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts.pretty-master
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
+2
+2
+Keys pretty
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
 0
 4
-4
-Keebio-Parts.pretty-master
-RP2040-QFN-56
-QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-70
-57
-Keebio-Parts.pretty-master
-R_0402
-Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0402
-0
 2
-2
-Keebio-Parts.pretty-master
-R_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Keebio-Parts.pretty-master
-R_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Keebio-Parts.pretty-master
-Resistor
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Resistor-Compact
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Resistor-Compact-1-side
-
-
-0
-2
-2
-Keebio-Parts.pretty-master
-Resistor-Hybrid
-
-
-0
-10
-2
-Keebio-Parts.pretty-master
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-Keebio-Parts.pretty-master
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-Keebio-Parts.pretty-master
-RotaryEncoder_EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts.pretty-master
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts.pretty-master
-RotaryEncoder_EC11B-Horizontal-Dual
-
-
-0
-7
-5
-Keebio-Parts.pretty-master
-RotaryEncoder_EC11_Nonplated
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts.pretty-master
-SK6812-MINI-E
-
-
+Keys pretty
+SW_MX_reversible_minimal
+MX-style keyswitch, reversible, without pcb-mount holes
+MX,cherry,gateron,kailh
 0
 4
-4
-Keebio-Parts.pretty-master
-SM0805D
-
-
+2
+Keys pretty
+SW_PG1350
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
 0
 2
 2
-Keebio-Parts.pretty-master
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-Keebio-Parts.pretty-master
-SOIC-8_5.23x5.23mm_P1.27mm
-SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-8
-8
-Keebio-Parts.pretty-master
-SOT-23
-SOT-23, Standard
-SOT-23
+Keys pretty
+SW_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
 0
 3
-3
-Keebio-Parts.pretty-master
-SOT-23-6
-6-pin SOT-23 package
-SOT-23-6
-0
-6
-6
-Keebio-Parts.pretty-master
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
-0
-3
-3
-Keebio-Parts.pretty-master
-SOT-143B
-SOT143B
-
-0
-4
-4
-Keebio-Parts.pretty-master
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-Keebio-Parts.pretty-master
-SW_SPST_3x3
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
 2
-Keebio-Parts.pretty-master
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Keebio-Parts.pretty-master
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-Keebio-Parts.pretty-master
-SW_Tactile_SPST_Angled_MJTP1117-no-mount
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-2
-2
-Keebio-Parts.pretty-master
-SinglePad
-
-
-0
-1
-1
-Keebio-Parts.pretty-master
-SolderJumper
-
-
-0
-4
-3
-Keebio-Parts.pretty-master
-SolderJumperLeft
-
-
-0
-3
-3
-Keebio-Parts.pretty-master
-SolderJumperPair
-
-
-0
-6
-3
-Keebio-Parts.pretty-master
-SolderJumperRight
-
-
-0
-3
-3
-Keebio-Parts.pretty-master
-SolderJumperSet
-
-
-0
-12
-6
-Keebio-Parts.pretty-master
-SolderJumperSets
-
-
+Keys pretty
+SW_PG1350_reversible_rotatable
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
+kailh,choc
 0
 6
 2
-Keebio-Parts.pretty-master
-SolidCopper
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
-0
-2
-1
-Keebio-Parts.pretty-master
-TQFP-32_7x7mm_Pitch0.8mm
-32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-32
-32
-Keebio-Parts.pretty-master
-TQFP-44_10x10mm_Pitch0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-Keebio-Parts.pretty-master
-TQFP-48_7x7mm_Pitch0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Keebio-Parts.pretty-master
-TQFP-QFN-44_Combined
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-104
-45
-Keebio-Parts.pretty-master
-TRRS-PJ-320A
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-TRRS-PJ-320A-dual
-
-
-0
-5
-4
-Keebio-Parts.pretty-master
-TRRS-PJ-320A-no-Fmask
-
-
-0
-8
-4
-Keebio-Parts.pretty-master
-TRRS-PJ-320D
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-TRRS-PJ-605
-
-
-0
-6
-6
-Keebio-Parts.pretty-master
-TRRS-PJ-606
-
-
-0
-6
-6
-Keebio-Parts.pretty-master
-TRRS_Jack
-
-
-0
-6
-6
-Keebio-Parts.pretty-master
-TRRS_Jack-one-sided
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-TRRS_Jumper
-
-
-0
-6
-6
-Keebio-Parts.pretty-master
-Teensy_2.0
-
-
-0
-31
-31
-Keebio-Parts.pretty-master
-Triple-Dual-1u-LED
-
-
-0
-21
-4
-Keebio-Parts.pretty-master
-Triple-Dual-1u-LED-flip
-
-
-0
-21
-4
-Keebio-Parts.pretty-master
-Triple-Dual-2u-LED
-
-
-0
-21
-4
-Keebio-Parts.pretty-master
-Triple-Dual-2u-LED-stab-flip
-
-
-0
-21
-4
-Keebio-Parts.pretty-master
-USB-C-12-Pin-MidMount
-
-
-0
-16
-13
-Keebio-Parts.pretty-master
-USB-Mini-B_ LCSC-C46398
-
-
-0
-9
-6
-Keebio-Parts.pretty-master
-USB-Mini-B_2leg
-
-
-0
-7
-6
-Keebio-Parts.pretty-master
-USB_miniB_HandSolder
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-Keebio-Parts.pretty-master
-VIA-0.6mm
-
-
-0
-1
-1
-Keebio-Parts.pretty-master
-WS2812B
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-WS2812B-4020
-
-
-0
-4
-4
-Keebio-Parts.pretty-master
-breakaway-hole
-
-
+Keys pretty
+Stabilizer_MX_2u
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
 0
 0
 0
-Keebio-Parts.pretty-master
-breakaway-hole-big
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-breakaway-mousebites
-
-
-0
-0
-0
-Keebio-Parts.pretty-master
-solder_jumper
-
-
-0
-2
-2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -66387,1686 +65351,6 @@ ESP8266 WiFi microcontroller
 0
 16
 16
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.25u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.25u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.50u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.75u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_1.75u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 1.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 1.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.00u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.25u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.25u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.50u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.75u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_2.75u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 2.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 2.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_3.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 3.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 3.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_3.00u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 3.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 3.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_4.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 4.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 4.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_4.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 4.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 4.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_5.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 5.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 5.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_6.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_6.00u_Offset
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.00u Offset
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.00u Offset
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_6.25u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_6.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 6.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 6.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_7.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap 7.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap 7.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_ISOEnter
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_ISOEnter_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_ISOEnter_180deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter 180deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter 180deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_ISOEnter_270deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Keycap ISOEnter 270deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout Keycap ISOEnter 270deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.25u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.25u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.50u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.75u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_1.75u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 1.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.00u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.25u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.25u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.50u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.75u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_2.75u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 2.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_3.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 3.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_3.00u_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 3.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_4.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 4.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 4.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_4.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 4.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 4.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_5.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 5.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 5.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_6.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_6.00u_Offset
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.00u Offset
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u Offset
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_6.25u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.25u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_6.50u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 6.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 6.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_7.00u
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap 7.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap 7.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter_90deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter_180deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter 180deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 180deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter_270deg
-Kailh Choc keyswitch V1V2 CPG1350 V1 CPG1353 V2 Hotswap Plated Keycap ISOEnter 270deg
-Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 270deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.25u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.25u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.50u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.75u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_1.75u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 1.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 1.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.00u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.25u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.25u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.50u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.75u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_2.75u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 2.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 2.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_3.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 3.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 3.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_3.00u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 3.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 3.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_4.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 4.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 4.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_4.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 4.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 4.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_5.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 5.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 5.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_6.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_6.00u_Offset
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.00u Offset
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.00u Offset
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_6.25u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_6.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 6.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 6.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_7.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap 7.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap 7.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_ISOEnter
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_ISOEnter_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_ISOEnter_180deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter 180deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter 180deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_ISOEnter_270deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Keycap ISOEnter 270deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Cutout Keycap ISOEnter 270deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.25u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.25u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.25u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.25u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.50u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.50u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.75u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.75u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_1.75u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 1.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 1.75u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.00u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.00u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.25u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.25u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.25u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.25u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.25u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.50u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.50u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.50u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.75u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.75u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.75u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_2.75u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 2.75u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 2.75u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_3.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 3.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 3.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_3.00u_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 3.00u 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 3.00u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_4.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 4.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 4.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_4.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 4.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 4.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_5.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 5.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 5.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_6.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_6.00u_Offset
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.00u Offset
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.00u Offset
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_6.25u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.25u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.25u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_6.50u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 6.50u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 6.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_7.00u
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap 7.00u
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap 7.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_ISOEnter
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_ISOEnter_90deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter 90deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_ISOEnter_180deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter 180deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 180deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V1_Plated_ISOEnter_270deg
-Kailh Choc keyswitch V1 CPG1350 V1 Hotswap Plated Keycap ISOEnter 270deg
-Kailh Choc Keyswitch Switch CPG1350 V1 Hotswap Plated Cutout Keycap ISOEnter 270deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.25u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.25u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.25u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.25u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.50u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.50u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.75u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.75u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_1.75u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 1.75u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 1.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.00u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.00u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.25u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.25u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.25u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.25u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.50u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.50u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.75u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.75u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_2.75u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 2.75u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 2.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_3.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 3.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 3.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_3.00u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 3.00u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 3.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_4.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 4.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 4.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_4.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 4.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 4.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_5.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 5.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 5.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_6.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_6.00u_Offset
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.00u Offset
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.00u Offset
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_6.25u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.25u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_6.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 6.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 6.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_7.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap 7.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap 7.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_ISOEnter
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_ISOEnter_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_ISOEnter_180deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter 180deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter 180deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_ISOEnter_270deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Keycap ISOEnter 270deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Cutout Keycap ISOEnter 270deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.25u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.25u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.25u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.25u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.25u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.50u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.50u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.50u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.75u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.75u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_1.75u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 1.75u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 1.75u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.00u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.00u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.00u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.25u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.25u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.25u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.25u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.25u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.50u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.50u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.50u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.75u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.75u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_2.75u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 2.75u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 2.75u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_3.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 3.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_3.00u_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 3.00u 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 3.00u 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_4.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 4.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 4.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_4.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 4.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 4.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_5.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 5.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 5.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_6.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_6.00u_Offset
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.00u Offset
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.00u Offset
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_6.25u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.25u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.25u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_6.50u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 6.50u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 6.50u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_7.00u
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap 7.00u
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap 7.00u
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_ISOEnter
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_ISOEnter_90deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter 90deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 90deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_ISOEnter_180deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter 180deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 180deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_Choc_V2_Plated_ISOEnter_270deg
-Kailh Choc keyswitch V2 CPG1353 V2 Hotswap Plated Keycap ISOEnter 270deg
-Kailh Choc Keyswitch Switch CPG1353 V2 Hotswap Plated Cutout Keycap ISOEnter 270deg
-0
-7
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX
-Kailh keyswitch Hotswap Socket
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.00u
-Kailh keyswitch Hotswap Socket Keycap 1.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.25u
-Kailh keyswitch Hotswap Socket Keycap 1.25u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.25u_90deg
-Kailh keyswitch Hotswap Socket Keycap 1.25u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.50u
-Kailh keyswitch Hotswap Socket Keycap 1.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.50u_90deg
-Kailh keyswitch Hotswap Socket Keycap 1.50u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.75u
-Kailh keyswitch Hotswap Socket Keycap 1.75u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_1.75u_90deg
-Kailh keyswitch Hotswap Socket Keycap 1.75u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 1.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.00u
-Kailh keyswitch Hotswap Socket Keycap 2.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.00u_90deg
-Kailh keyswitch Hotswap Socket Keycap 2.00u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.25u
-Kailh keyswitch Hotswap Socket Keycap 2.25u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.25u_90deg
-Kailh keyswitch Hotswap Socket Keycap 2.25u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.25u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.50u
-Kailh keyswitch Hotswap Socket Keycap 2.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.50u_90deg
-Kailh keyswitch Hotswap Socket Keycap 2.50u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.50u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.75u
-Kailh keyswitch Hotswap Socket Keycap 2.75u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_2.75u_90deg
-Kailh keyswitch Hotswap Socket Keycap 2.75u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 2.75u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_3.00u
-Kailh keyswitch Hotswap Socket Keycap 3.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 3.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_3.00u_90deg
-Kailh keyswitch Hotswap Socket Keycap 3.00u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 3.00u 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_4.00u
-Kailh keyswitch Hotswap Socket Keycap 4.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 4.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_4.50u
-Kailh keyswitch Hotswap Socket Keycap 4.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 4.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_5.50u
-Kailh keyswitch Hotswap Socket Keycap 5.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 5.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_6.00u
-Kailh keyswitch Hotswap Socket Keycap 6.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_6.00u_Offset
-Kailh keyswitch Hotswap Socket Keycap 6.00u Offset
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.00u Offset
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_6.25u
-Kailh keyswitch Hotswap Socket Keycap 6.25u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.25u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_6.50u
-Kailh keyswitch Hotswap Socket Keycap 6.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 6.50u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_7.00u
-Kailh keyswitch Hotswap Socket Keycap 7.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap 7.00u
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_ISOEnter
-Kailh keyswitch Hotswap Socket Keycap ISOEnter
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_ISOEnter_90deg
-Kailh keyswitch Hotswap Socket Keycap ISOEnter 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter 90deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_ISOEnter_180deg
-Kailh keyswitch Hotswap Socket Keycap ISOEnter 180deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter 180deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_ISOEnter_270deg
-Kailh keyswitch Hotswap Socket Keycap ISOEnter 270deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Relief Cutout Keycap ISOEnter 270deg
-0
-2
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated
-Kailh keyswitch Hotswap Socket plated holes
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.00u
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.25u
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.25u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.25u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.25u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.25u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.25u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.50u
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.50u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.50u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.50u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.75u
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.75u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.75u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_1.75u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 1.75u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.75u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.00u
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.00u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.00u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.00u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.25u
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.25u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.25u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.25u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.25u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.25u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.50u
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.50u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.50u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.50u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.75u
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.75u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.75u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_2.75u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 2.75u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 2.75u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_3.00u
-Kailh keyswitch Hotswap Socket plated holes Keycap 3.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 3.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_3.00u_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap 3.00u 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 3.00u 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_4.00u
-Kailh keyswitch Hotswap Socket plated holes Keycap 4.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 4.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_4.50u
-Kailh keyswitch Hotswap Socket plated holes Keycap 4.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 4.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_5.50u
-Kailh keyswitch Hotswap Socket plated holes Keycap 5.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 5.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_6.00u
-Kailh keyswitch Hotswap Socket plated holes Keycap 6.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_6.00u_Offset
-Kailh keyswitch Hotswap Socket plated holes Keycap 6.00u Offset
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.00u Offset
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_6.25u
-Kailh keyswitch Hotswap Socket plated holes Keycap 6.25u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.25u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_6.50u
-Kailh keyswitch Hotswap Socket plated holes Keycap 6.50u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 6.50u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_7.00u
-Kailh keyswitch Hotswap Socket plated holes Keycap 7.00u
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 7.00u
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_ISOEnter
-Kailh keyswitch Hotswap Socket plated holes Keycap ISOEnter
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_ISOEnter_90deg
-Kailh keyswitch Hotswap Socket plated holes Keycap ISOEnter 90deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 90deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_ISOEnter_180deg
-Kailh keyswitch Hotswap Socket plated holes Keycap ISOEnter 180deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 180deg
-0
-6
-2
-MoreKeyFtPnt
-SW_Hotswap_Kailh_MX_Plated_ISOEnter_270deg
-Kailh keyswitch Hotswap Socket plated holes Keycap ISOEnter 270deg
-Kailh Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap ISOEnter 270deg
-0
-6
-2
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -70479,13 +67763,6 @@ NetTie
 NetTie-4_THT_Pad1.0mm
 Net tie, 4 pin, 1.0mm round THT pads
 net tie
-0
-4
-4
-OLED-SSD1306
-SSD1306-0.91-OLED-4pin-128x32
-
-
 0
 4
 4
@@ -92749,1056 +90026,6 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
-Spark Fun
-1X01_TURRET
-0.08" DRILL, 0.13" TDOC
-0.08" DRILL, 0.13" TDOC
-0
-1
-1
-Spark Fun
-1X03
-
-
-0
-3
-3
-Spark Fun
-4-POS-DIP-SMD
-
-
-0
-8
-8
-Spark Fun
-209-2LPST
-
-
-0
-4
-4
-Spark Fun
-3362U
-
-
-0
-3
-3
-Spark Fun
-3362U-2
-
-
-0
-3
-3
-Spark Fun
-3386U
-TSR-3386U TRIMPOT
-TSR-3386U TRIMPOT
-0
-3
-3
-Spark Fun
-6400BG_HEATSINK
-
-
-0
-0
-0
-Spark Fun
-AAVID_573400
-
-
-0
-2
-2
-Spark Fun
-ALPS_POT
-
-
-0
-5
-5
-Spark Fun
-ALPS_POT_KIT
-
-
-0
-5
-5
-Spark Fun
-AYZ0202
-DPDT SLIDE SWITCH SMD
-DPDT SLIDE SWITCH SMD
-0
-6
-6
-Spark Fun
-BATTCOM_20MM_PTH
-
-
-0
-2
-2
-Spark Fun
-BATTCON_9V
-
-
-0
-2
-2
-Spark Fun
-BATTCON_12MM
-
-
-0
-3
-2
-Spark Fun
-BATTCON_12MM_PTH
-
-
-0
-3
-2
-Spark Fun
-BATTCON_20MM
-
-
-0
-3
-3
-Spark Fun
-BATTCON_20MM_4LEGS
-
-
-0
-5
-2
-Spark Fun
-BATTCON_20MM_4LEGS_OVERPASTE
-
-
-0
-5
-5
-Spark Fun
-BATTCON_245MM
-
-
-0
-3
-3
-Spark Fun
-BATTCON_245MM_PTH
-
-
-0
-3
-3
-Spark Fun
-BATTERY
-BATTERY
-BATTERY
-0
-3
-3
-Spark Fun
-BATTERY-AA
-
-
-0
-4
-2
-Spark Fun
-BATTERY-AA-KIT
-BATTERY-AA-KIT
-BATTERY-AA-KIT
-0
-4
-2
-Spark Fun
-BATTERY-AA-PANEL
-
-
-0
-2
-2
-Spark Fun
-BATTERY-AAA
-
-
-0
-4
-2
-Spark Fun
-BATTERY-AAA-KIT
-
-
-0
-4
-2
-Spark Fun
-BATTERY_20MM_PTH_COMPACT
-
-
-0
-3
-3
-Spark Fun
-BATTERY_18650-HOLDER
-WORKS WITH 18650 CLIPS PRT-13113.
-WORKS WITH 18650 CLIPS PRT-13113.
-0
-6
-2
-Spark Fun
-BUTTON-10MM
-
-
-0
-2
-2
-Spark Fun
-BUTTON-18MM
-
-
-0
-2
-2
-Spark Fun
-BUTTON-CONDUCTIVE
-
-
-0
-2
-2
-Spark Fun
-BUTTON-CONDUCTIVE-0.1
-
-
-0
-2
-2
-Spark Fun
-BUTTON-CONDUCTIVE-MINI
-
-
-0
-2
-2
-Spark Fun
-BUTTONPAD-2X2
-
-
-0
-40
-40
-Spark Fun
-BUTTONPAD-2X2-SPECIAL
-
-
-0
-24
-24
-Spark Fun
-BUTTONPAD-2X2SINGLE
-
-
-0
-16
-16
-Spark Fun
-BUTTONPAD-2X2SINGLE-KIT
-BUTTONPAD-2X2SINGLE-KIT
-BUTTONPAD-2X2SINGLE-KIT
-0
-16
-16
-Spark Fun
-BUTTONPAD-4X4
-
-
-0
-96
-50
-Spark Fun
-BUTTONPAD-4X4-SPECIAL
-
-
-0
-96
-50
-Spark Fun
-BUZZER-12MM
-BUZZER
-BUZZER
-0
-2
-2
-Spark Fun
-BUZZER-12MM-KIT
-
-
-0
-2
-2
-Spark Fun
-BUZZER-12MM-NS
-
-
-0
-2
-2
-Spark Fun
-BUZZER-12MM-NS-KIT
-BUZZER-12MM-NS-KIT
-BUZZER-12MM-NS-KIT
-0
-2
-2
-Spark Fun
-BUZZER-CCV
-
-
-0
-2
-2
-Spark Fun
-BUZZER-CCV-KIT
-BUZZER-CCV-KIT
-BUZZER-CCV-KIT
-0
-2
-2
-Spark Fun
-BUZZER-CMT1102
-
-
-0
-2
-2
-Spark Fun
-BUZZER-CMT1603
-
-
-0
-2
-2
-Spark Fun
-CAPSENSE_PAD
-
-
-0
-2
-2
-Spark Fun
-CHS-02A
-2 BITS, J-HOOK
-2 BITS, J-HOOK
-0
-4
-4
-Spark Fun
-DIPSWITCH-02
-DIP SWITCH
-DIP SWITCH
-0
-4
-4
-Spark Fun
-DIPSWITCH-02-50MIL
-DIP SWITCH
-DIP SWITCH
-0
-4
-4
-Spark Fun
-DIPSWITCH-08
-DIP SWITCH
-DIP SWITCH
-0
-16
-16
-Spark Fun
-DIPSWITCH-08-50MIL
-DIP SWITCH
-DIP SWITCH
-0
-16
-16
-Spark Fun
-EG2211
-
-
-0
-8
-6
-Spark Fun
-ENCODER-16MM-QUAD
-16MM TOP WIDTH
-16MM TOP WIDTH
-0
-5
-5
-Spark Fun
-ENCODER_LED_2
-2-COLOR ILLUMINATED ROTARY ENCODER
-2-COLOR ILLUMINATED ROTARY ENCODER
-0
-9
-9
-Spark Fun
-ENCODER_LED_2_KIT
-
-
-0
-9
-9
-Spark Fun
-ENCODER_LED_3
-
-
-0
-10
-10
-Spark Fun
-ENCODER_LED_3_KIT
-
-
-0
-10
-10
-Spark Fun
-ES
-RIGHT ANGLE SLIDE SWITCH. WORKS WITH PART#ES21MABE
-RIGHT ANGLE SLIDE SWITCH. WORKS WITH PART#ES21MABE
-0
-8
-8
-Spark Fun
-FKIT-LIR2450-H
-
-
-0
-2
-2
-Spark Fun
-FKIT-RIBBON_CONNECTOR_03_2MM_L
-
-
-0
-9
-9
-Spark Fun
-FKIT-RIBBON_CONNECTOR_03_2MM_R
-
-
-0
-9
-9
-Spark Fun
-FKIT-SNAP_FEMALE
-
-
-0
-3
-3
-Spark Fun
-FKIT-SNAP_MALE
-
-
-0
-3
-3
-Spark Fun
-G3VM-61E1
-
-
-0
-6
-6
-Spark Fun
-GPI-152-3013
-SWITCH WITH PART NUMBER: GPI-152-3013
-SWITCH WITH PART NUMBER: GPI-152-3013
-0
-10
-10
-Spark Fun
-JOYSTICK
-
-
-0
-14
-10
-Spark Fun
-JOYSTICK-PSP1000
-
-
-0
-4
-4
-Spark Fun
-JOYSTICK_MINI
-
-
-0
-8
-8
-Spark Fun
-KPS-1290
-
-
-0
-7
-7
-Spark Fun
-KSA_SEALED_TAC_SWITCH
-
-
-0
-4
-4
-Spark Fun
-LIPO-100
-
-
-0
-0
-0
-Spark Fun
-LIPO-110-TABS
-
-
-0
-2
-2
-Spark Fun
-LIPO-1100
-
-
-0
-0
-0
-Spark Fun
-LIPO-1100MAH
-
-
-0
-2
-2
-Spark Fun
-LIPO-2000
-
-
-0
-0
-0
-Spark Fun
-MAGNET-18MM
-
-
-0
-0
-0
-Spark Fun
-MS
-SERIES S SLIDE SWITCH
-SERIES S SLIDE SWITCH
-0
-6
-6
-Spark Fun
-MSS22
-MSS22 DPDT SWITCH
-MSS22 DPDT SWITCH
-0
-10
-10
-Spark Fun
-N35P112
-
-
-0
-13
-13
-Spark Fun
-NAV_SWITCH
-
-
-0
-5
-5
-Spark Fun
-OS
-
-
-0
-6
-6
-Spark Fun
-PCB_MOUNT_SPEAKER
-
-
-0
-2
-2
-Spark Fun
-POT_ALPHA_RV16AF-20
-PACKAGE FOR ALPHA RV16AF-20 POTENTIOMETER
-PACKAGE FOR ALPHA RV16AF-20 POTENTIOMETER
-0
-3
-3
-Spark Fun
-POT_MAMMOTH
-
-
-0
-3
-3
-Spark Fun
-POT_PANASONIC_DUAL_VERT
-PANASONIC DUAL PCB MOUNT POT.
-PANASONIC DUAL PCB MOUNT POT.
-0
-8
-8
-Spark Fun
-POT_PANASONIC_DUAL_VERT_KIT
-
-
-0
-8
-8
-Spark Fun
-POT_PTH
-
-
-0
-5
-5
-Spark Fun
-POT_PTH_SWITCH
-TOPUP PART# 16M1SHB-B3-20KM-A2K-16Y
-TOPUP PART# 16M1SHB-B3-20KM-A2K-16Y
-0
-5
-5
-Spark Fun
-QFN16-3X3MM
-3MM X 3MM QFN 16 PIN
-3MM X 3MM QFN 16 PIN
-0
-17
-17
-Spark Fun
-REED_SWITCH_PLASTIC
-
-
-0
-2
-2
-Spark Fun
-REED_SWITCH_PTH
-
-
-0
-2
-2
-Spark Fun
-RELAY-G5Q
-
-
-0
-5
-5
-Spark Fun
-RELAY-G5V
-G5Q SPDT RELAY (SPARKFUN SKU: COM-00100). FOOTPRINT SHOULD ALSO WORK WITH SPST-NO RELAY.
-G5Q SPDT RELAY (SPARKFUN SKU: COM-00100). FOOTPRINT SHOULD ALSO WORK WITH SPST-NO RELAY.
-0
-6
-6
-Spark Fun
-RELAY-JZC
-
-
-0
-5
-5
-Spark Fun
-RELAY-S108T02
-
-
-0
-4
-4
-Spark Fun
-RELAY-T9A
-BIG RELAY. 220V/30A. SPARKFUN SKU: COM-00101
-BIG RELAY. 220V/30A. SPARKFUN SKU: COM-00101
-0
-5
-4
-Spark Fun
-RELAY-T9A-2
-
-
-0
-5
-4
-Spark Fun
-RELAY-T90
-
-
-0
-5
-4
-Spark Fun
-ROTARY_ENC_PLAIN
-SIMPLE ROTARY ENCODER, NO LED, PUSH CENTER
-SIMPLE ROTARY ENCODER, NO LED, PUSH CENTER
-0
-7
-7
-Spark Fun
-ROTARY_SWITCH_1X10
-TAIWAN ALPHA 1 POLE, 10 POS ROTARY SWITCH
-TAIWAN ALPHA 1 POLE, 10 POS ROTARY SWITCH
-0
-11
-11
-Spark Fun
-ROTARY_SWITCH_1X10_KIT
-
-
-0
-11
-11
-Spark Fun
-R_SW_TH
-
-
-0
-4
-4
-Spark Fun
-SLIDER
-
-
-0
-3
-3
-Spark Fun
-SLIDER-MEDIUM
-
-
-0
-3
-3
-Spark Fun
-SLIDER-MEDIUM-KIT
-
-
-0
-3
-3
-Spark Fun
-SLIDER-SMALL
-
-
-0
-3
-3
-Spark Fun
-STAND-OFF
-STAND OFF
-STAND OFF
-0
-0
-0
-Spark Fun
-STAND-OFF-TIGHT
-STAND OFF
-STAND OFF
-0
-0
-0
-Spark Fun
-STANDOFF-ELECTRICAL
-
-
-0
-1
-1
-Spark Fun
-STOMP-SWITCH-3PDT
-
-
-0
-9
-9
-Spark Fun
-STOMP-SWITCH-DPDT
-STOMP SWITCH
-STOMP SWITCH
-0
-6
-6
-Spark Fun
-SWITCH-4PDT-CNK
-
-
-0
-13
-10
-Spark Fun
-SWITCH-SP3T-SMD
-
-
-0
-8
-8
-Spark Fun
-SWITCH-SPDT
-
-
-0
-3
-3
-Spark Fun
-SWITCH-SPDT-SMD
-
-
-0
-3
-3
-Spark Fun
-SWITCH-SPDT_KIT
-SWITCH-SPDT_KIT
-SWITCH-SPDT_KIT
-0
-3
-3
-Spark Fun
-SWITCH-SPDT_LOCK.007S
-
-
-0
-3
-3
-Spark Fun
-SWITCH-SPST-SMD-A
-
-
-0
-7
-7
-Spark Fun
-SWITCH-SPST-VERTICAL
-
-
-0
-2
-2
-Spark Fun
-SWITCHE-DPDT
-
-
-0
-10
-10
-Spark Fun
-TACTILE-PTH
-OMRON SWITCH
-OMRON SWITCH
-0
-4
-4
-Spark Fun
-TACTILE-PTH-12MM
-
-
-0
-4
-4
-Spark Fun
-TACTILE-PTH-EZ
-
-
-0
-4
-4
-Spark Fun
-TACTILE-PTH-LED-12MM
-
-
-0
-6
-6
-Spark Fun
-TACTILE-PTH-LED-12MM-EZ
-
-
-0
-6
-6
-Spark Fun
-TACTILE-PTH-SIDE
-
-
-0
-4
-3
-Spark Fun
-TACTILE-PTH-SIDEEZ
-
-
-0
-4
-3
-Spark Fun
-TACTILE-SMD-12MM
-
-
-0
-4
-4
-Spark Fun
-TACTILE-SWITCH-1101NE
-SPARKFUN SKU# COM-08229
-SPARKFUN SKU# COM-08229
-0
-2
-2
-Spark Fun
-TACTILE-SWITCH-SMD
-
-
-0
-4
-4
-Spark Fun
-TACTILE_SWITCH-SMD-RIGHT-ANGLE
-
-
-0
-2
-2
-Spark Fun
-TACTILE_SWITCH_SMD-2
-
-
-0
-4
-4
-Spark Fun
-TACTILE_SWITCH_SMD-3
-
-
-0
-4
-4
-Spark Fun
-TACTILE_SWITCH_SMD_4.6X2.8MM
-4.6 X 2.8MM TACTILE SWITCH
-4.6 X 2.8MM TACTILE SWITCH
-0
-4
-4
-Spark Fun
-TACTILE_SWITCH_TALL
-
-
-0
-4
-4
-Spark Fun
-TRACKBALL
-
-
-0
-0
-0
-Spark Fun
-TRIMPOT-3MM
-
-
-0
-3
-3
-Spark Fun
-TRIMPOT-3MM-2
-
-
-0
-3
-3
-Spark Fun
-TRIMPOT-5MM
-
-
-0
-3
-3
-Spark Fun
-TRIMPOT-5MM-V2
-
-
-0
-3
-3
-Spark Fun
-TRIMPOT_5MM
-
-
-0
-3
-3
-Spark Fun
-TRIMPOT_PTH_S3_LOCK
-
-
-0
-3
-3
-Spark Fun
-TRIMPOT_TC33
-
-
-0
-3
-3
-Spark Fun
-TRIM_POT
-
-
-0
-3
-3
-Spark Fun
-TRIM_POT_PTH
-
-
-0
-3
-3
-Spark Fun
-USB-AB-MICRO-SMD
-MICRO USB AB CONNECTOR FOR OTG SUPPORT. 5-PINS: USBVCC, GND, D+, D-, USBID. CAN ACT AS HOST OR DEVICE
-MICRO USB AB CONNECTOR FOR OTG SUPPORT. 5-PINS: USBVCC, GND, D+, D-, USBID. CAN ACT AS HOST OR DEVICE
-0
-9
-9
-Spark Fun
-VIBE-MOTOR-10MM
-
-
-0
-2
-2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -100911,185 +97138,38 @@ Varistor VF
 0
 2
 2
-arduino
-TRRS-PJ-320A-dual
-
-
-0
-8
-4
-arduino
-joystick
-
-
-0
-6
-4
-esp32-phy-master
+esp 32
 ESP32-WROOM-fixed
 
 
 0
 40
 39
-esp32-phy-master
+esp 32
 LS6J2M
 
 
 0
 4
 4
-esp32-phy-master
+esp 32
 MountingHole_3.2mm_M3
 Mounting Hole 3.2mm, no annular, M3
 mounting hole 3.2mm no annular m3
 0
 1
 1
-esp32-phy-master
+esp 32
 RJ45_Trans_Only
 
 RJ45
 0
 12
 10
-esp32-phy-master
+esp 32
 kyocera_kc7050a_c5
 SMD Clock Crystal Oscillators KYOCERA KC7050A CA Series
 SMD crystal oscillator
 0
 4
 4
-keyswitches.pretty-master
-Kailh_socket_MX
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-keyswitches.pretty-master
-Kailh_socket_MX_optional
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches.pretty-master
-Kailh_socket_MX_optional_platemount
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches.pretty-master
-Kailh_socket_MX_optional_reversible
-MX-style keyswitch with support for reversible optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-8
-2
-keyswitches.pretty-master
-Kailh_socket_MX_optional_reversible_platemount
-MX-style keyswitch with support for reversible optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-8
-2
-keyswitches.pretty-master
-Kailh_socket_MX_platemount
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-keyswitches.pretty-master
-Kailh_socket_MX_reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches.pretty-master
-Kailh_socket_MX_reversible_platemount
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches.pretty-master
-Kailh_socket_PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-keyswitches.pretty-master
-Kailh_socket_PG1350_optional
-Kailh "Choc" PG1350 keyswitch with optional socket mount
-kailh,choc
-0
-4
-2
-keyswitches.pretty-master
-Kailh_socket_PG1350_optional_reversible
-Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
-kailh,choc
-0
-4
-2
-keyswitches.pretty-master
-Kailh_socket_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-4
-2
-keyswitches.pretty-master
-SW_MX
-MX-style keyswitch
-MX,cherry,gateron,kailh
-0
-2
-2
-keyswitches.pretty-master
-SW_MX_reversible
-MX-style keyswitch, reversible
-MX,cherry,gateron,kailh
-0
-4
-2
-keyswitches.pretty-master
-SW_MX_reversible_minimal
-MX-style keyswitch, reversible, without pcb-mount holes
-MX,cherry,gateron,kailh
-0
-4
-2
-keyswitches.pretty-master
-SW_PG1350
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
-keyswitches.pretty-master
-SW_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-3
-2
-keyswitches.pretty-master
-SW_PG1350_reversible_rotatable
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
-kailh,choc
-0
-6
-2
-keyswitches.pretty-master
-Stabilizer_MX_2u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
