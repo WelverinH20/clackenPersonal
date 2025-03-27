@@ -3249,7 +3249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 88.9 52.07 0)
 			(effects
 				(font
@@ -3317,7 +3317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 139.7 64.77 0)
 			(effects
 				(font
@@ -3385,7 +3385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 71.12 52.07 0)
 			(effects
 				(font
@@ -3453,7 +3453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 139.7 77.47 0)
 			(effects
 				(font
@@ -3521,7 +3521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 123.19 77.47 0)
 			(effects
 				(font
@@ -3668,7 +3668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 105.41 102.87 0)
 			(effects
 				(font
@@ -3969,7 +3969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 123.19 102.87 0)
 			(effects
 				(font
@@ -4116,7 +4116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 123.19 52.07 0)
 			(effects
 				(font
@@ -4263,7 +4263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 105.41 77.47 0)
 			(effects
 				(font
@@ -4489,7 +4489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 105.41 64.77 0)
 			(effects
 				(font
@@ -4715,7 +4715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 105.41 90.17 0)
 			(effects
 				(font
@@ -5020,7 +5020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 123.19 64.77 0)
 			(effects
 				(font
@@ -5246,7 +5246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -5393,7 +5393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 176.53 90.17 0)
 			(effects
 				(font
@@ -5777,7 +5777,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 71.12 102.87 0)
 			(effects
 				(font
@@ -5845,7 +5845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 139.7 102.87 0)
 			(effects
 				(font
@@ -6150,7 +6150,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 105.41 52.07 0)
 			(effects
 				(font
@@ -6218,7 +6218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 139.7 90.17 0)
 			(effects
 				(font
@@ -6578,7 +6578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 49.53 64.77 0)
 			(effects
 				(font
@@ -6646,7 +6646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 193.04 90.17 0)
 			(effects
 				(font
@@ -6714,7 +6714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 88.9 64.77 0)
 			(effects
 				(font
@@ -6861,7 +6861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 139.7 52.07 0)
 			(effects
 				(font
@@ -7008,7 +7008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 88.9 77.47 0)
 			(effects
 				(font
@@ -7155,7 +7155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 88.9 90.17 0)
 			(effects
 				(font
@@ -7223,7 +7223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 49.53 102.87 0)
 			(effects
 				(font
@@ -7291,7 +7291,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 71.12 64.77 0)
 			(effects
 				(font
@@ -7359,7 +7359,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 123.19 90.17 0)
 			(effects
 				(font
@@ -7427,7 +7427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 71.12 77.47 0)
 			(effects
 				(font
@@ -7495,7 +7495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 49.53 90.17 0)
 			(effects
 				(font
@@ -7721,7 +7721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 88.9 102.87 0)
 			(effects
 				(font
@@ -8022,7 +8022,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 49.53 77.47 0)
 			(effects
 				(font
@@ -8090,7 +8090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "keyswitches.pretty-master:SW_MX_reversible"
+		(property "Footprint" "Keys pretty:SW_MX_reversible"
 			(at 71.12 90.17 0)
 			(effects
 				(font
