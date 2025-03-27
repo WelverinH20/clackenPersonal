@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Switch_Keyboard_Hotswap_Kailh")(type "KiCad")(uri "C:/Users/micha/Documents/GitHub/clackenPersonal/kicad/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Joystick")(type "KiCad")(uri "C:/Users/micha/Documents/GitHub/clackenPersonal/kicad/Custom Foot Prints/Joystick")(options "")(descr ""))
+  (lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(type "KiCad")(uri "C:/Users/micha/Documents/GitHub/clackenPersonal/kicad/Custom Foot Prints/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
+  (lib (name "SparkFun-KiCad-Libraries-main")(type "KiCad")(uri "C:/Users/micha/Documents/GitHub/clackenPersonal/kicad/Custom Foot Prints/SparkFun-KiCad-Libraries-main")(options "")(descr ""))
+)
