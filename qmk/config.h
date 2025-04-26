@@ -1,28 +1,18 @@
-// Copyright 2024 Carter Pollan (@Carter Pollan)
-// SPDX-License-Identifier: GPL-2.0-or-later
-
 #pragma once
 
-/*
- * Feature disable options
- * These options are also useful to firmware size reduction.
- */
-
- /* Serial communication */
+/* Serial communication */
 #define SERIAL_USART_FULL_DUPLEX
-#define SERIAL_USART_TX_PIN GP6 // Left: GP3 Right: GP6
-#define SERIAL_USART_RX_PIN GP29 // Left: GP4 Right: GP29
+#define SERIAL_USART_TX_PIN D3  // Example: adjust for real TX pin (Right side)
+#define SERIAL_USART_RX_PIN D2  // Example: adjust for real RX pin (Left side)
 
 /* Defines handedness EEPROM */
 #define EE_HANDS
-/*
-add these flags when flashing to set the handedness
 
--bl uf2-split-left
--bl uf2-split-right*/
+#define ANALOG_JOYSTICK_X_AXIS_PIN A3
+#define ANALOG_JOYSTICK_Y_AXIS_PIN A2
 
-#define MATRIX_COL_PINS_RIGHT { GP4, GP3, GP28, GP27, GP26 }
-#define MATRIX_ROW_PINS_RIGHT { GP2, GP1, GP0, GP7 } //{ GP2, GP1, GP0, GP7 }
+#define MATRIX_COL_PINS_RIGHT { B4, B5, B6, B2, B3 }  // Example columns
+#define MATRIX_ROW_PINS_RIGHT { D0, D1, D4, C6 }      // Example rows
 
 /* disable debug print */
 //#define NO_DEBUG
@@ -34,3 +24,4 @@ add these flags when flashing to set the handedness
 //#define NO_ACTION_LAYER
 //#define NO_ACTION_TAPPING
 //#define NO_ACTION_ONESHOT
+

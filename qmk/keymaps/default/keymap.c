@@ -10,7 +10,7 @@ void matrix_init_user(void) {
 }
 
 // Function to read joystick values
-uint16_t read_joystick(void) {
+/*uint16_t read_joystick(void) {
     uint16_t x_value = analogRead(JOY_X_PIN); // Read X axis
     uint16_t y_value = analogRead(JOY_Y_PIN); // Read Y axis
 
@@ -27,7 +27,7 @@ void send_joystick_data(uint16_t x_value, uint16_t y_value) {
     Serial.write(x_value & 0xFF);        // Send low byte of X value
     Serial.write((y_value >> 8) & 0xFF); // Send high byte of Y value
     Serial.write(y_value & 0xFF);        // Send low byte of Y value
-}
+}*/
 
 // This function is called whenever a key is pressed or released
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
