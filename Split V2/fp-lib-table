@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Custom Footprints") (type "KiCad") (uri "C:/Users/micha/Documents/GitHub/clackenPersonal/Custom_Footprints") (options "") (descr ""))
+	(lib (name "joy") (type "KiCad") (uri "C:/Users/micha/Documents/GitHub/clackenPersonal/Custom_Footprints/joy") (options "") (descr ""))
+)
